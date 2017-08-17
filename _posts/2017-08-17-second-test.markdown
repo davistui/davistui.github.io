@@ -2,7 +2,7 @@
 layout: post
 title: My First Post
 introduction: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-category: Dev
+category: Blog
 tags: [web, jekyll]
 ---
 
