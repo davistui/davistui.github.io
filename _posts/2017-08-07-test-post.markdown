@@ -1,7 +1,7 @@
 ---
 layout: post
 title: just another test post
-category: Dev
+category: Blog
 tags: [web, jekyll]
 ---
 <img src="{{ site.baseurl }}/images/pic02.jpg">
