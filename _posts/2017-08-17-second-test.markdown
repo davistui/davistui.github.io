@@ -2,6 +2,8 @@
 layout: post
 title: My First Post
 introduction: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+category: Dev
+tags: [web, jekyll]
 ---
 
 Nam elit purus, tempus vel velit non, laoreet tempus ligula. Suspendisse eu condimentum urna.
