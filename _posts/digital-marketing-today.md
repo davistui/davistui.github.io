@@ -1,3 +1,12 @@
+---
+layout: post
+title: Digital marketing today
+introduction: A digital marketing overview for the everday person.
+category: Blog
+tags: [digital marketing]
+---
+<img src="{{ site.baseurl }}/images/pic04.jpg">
+
 # Digital marketing today 
 
 From meme generating millennials through to the 71 year old president of the United States, we're finding the internet is a platform that everyone is on. That's 49.7% or 3.2 billion people using the internet. It's staggering to think of the disruptive opportunity the internet provides businesses and how we can use digital marketing in our industries to grow businesses and create different experiences for customers. However it normally starts with a bottom up approach with a google search, then we attempt to do something that doesn't work and leaves us with a bad taste of the internet. If digital marketing is to be used effectively, then it's important to start top down by  sizing up the opportunity, building a strategy and then executing on these strategies.
