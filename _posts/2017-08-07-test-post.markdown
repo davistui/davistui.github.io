@@ -3,6 +3,7 @@ layout: post
 title: just another test post
 category: Blog
 tags: [web, jekyll]
+published: false
 ---
 {% for tag in tags %}
 	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
