@@ -87,22 +87,30 @@ workflows using the sales cloud component of salesforce
 ## Education
 
 • Currently studying towards Salesforce ADM 201, JB 101, ADM 251 certifications.
+
 • Certificate from the Wharton Business School in Customer Analytics (2016)
+
 • Bachelor of Aviation Management, Massey University, New Zealand (2010)
+
 • New Zealand Certificate of Education Achievement and University Entrance (2006)
+
 • Negotiation and Account Management Certificates, Talent2 (2012)
+
 • Certificate in Career and Self-Development Open Polytech, New Zealand (2012)
 
 ## Software Skills
 
 • Salesforce – as an advanced user, I am in the process of becoming certified with ADM 201
+
 • Microsoft Office Package (Windows 7 and Office 2010)
+
 • Google suite (Google analytics, trends and generic Google tools)
+
 • HTML, CSS, wordpress, python
 
 ## Hobbies and Interests
 
-Music -  I enjoy listening to a variety of music and record some music as well. Photography  - Something that I have been working on
-Blogging  - My blog is based around sales, rugby and entrepreneuralism
+**Music** -  I enjoy listening to a variety of music and record some music as well. Photography  - Something that I have been working on
+**Blogging**  - My blog is based around sales, rugby and entrepreneuralism
 
 ## References Available on request
