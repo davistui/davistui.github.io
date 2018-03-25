@@ -7,8 +7,6 @@ introduction: The foundation of sales always starts with qualificiation.
 ---
 
 <img src="https://images.unsplash.com/photo-1488998427799-e3362cec87c3?ixlib=rb-0.3.5&s=6c4de93ecb1e1d0f6a71e9d7e30e39fb&auto=format&fit=crop&w=1050&q=80">
-# Sales Qualification 101
-
 With sales being one of the oldest professions in the world, it’s not surprising to more content around new ways to invent the sales cycle. We are definitely acquiring goods and services in different way but the sale aspect is still the same, we give something valuable in exchange for a good or service.
 
 So similar to movies, whilst there are untold thousands of movies - they all roughly follow a similar set of rules. Sales qualification is similar. There are thousands of ways we can qualify prospects, however the set of rules is roughly the same. I’ve always spent time to find ways to streamline this process, find better ways to qualify and give me an ‘edge’ when it comes to making this an autonomous process that leads to building and closing more pipeline. I’ve tried various methods but I’ve found the B.A.N.T method has served me well. That is qualifying prospects according to their Budget, Authority, Need, Timeline.
