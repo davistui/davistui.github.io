@@ -7,7 +7,6 @@ introduction: The foundation of sales always starts with qualificiation.
 ---
 
 <img src="https://images.unsplash.com/photo-1488998427799-e3362cec87c3?ixlib=rb-0.3.5&s=6c4de93ecb1e1d0f6a71e9d7e30e39fb&auto=format&fit=crop&w=1050&q=80">
-
 # Sales Qualification 101
 
 With sales being one of the oldest professions in the world, it’s not surprising to more content around new ways to invent the sales cycle. We are definitely acquiring goods and services in different way but the sale aspect is still the same, we give something valuable in exchange for a good or service.
