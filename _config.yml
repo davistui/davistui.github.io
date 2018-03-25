@@ -10,7 +10,8 @@ url: "http://davistui.github.io" # the base hostname & protocol for your site
 twitter_username: honest2davis
 github_username:  davistui
 permalink: /blog/:title
-
+plugins:
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
