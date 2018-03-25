@@ -30,9 +30,9 @@ At a high level my role entailed creating sales and marketing strategies, value 
 
 • During my time in Bahrain, I founded a digital agency  marketingbh.com and attained my IRB level one coaching certificate.
 
-Project Manager (Data Migration)
-Trade Victoria, Melbourne
-May 2017 - July 2017
+# Project Manager (Data Migration)
+# Trade Victoria, Melbourne
+# May 2017 - July 2017
 
 • During the offseason, I had an opportunity to consult within Trade Victoria around migrating event data between Salesforce and Cvent
 
