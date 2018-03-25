@@ -5,7 +5,7 @@ introduction: My Resume
 category: Resume
 ---
 
-> ## For a PDF copy of my CV, you can download it <a href="{{ site.url }}/assets/DT%20CV%202018%20(1).pdf"><b>here</b><a/> or alternatively, you can download a word version of my CV <a href="{{ site.url }}/assets/DT%20CV%202018%20(1).docx"><b>here</b></a>.
+> For a PDF copy of my CV, you can download it <a href="{{ site.url }}/assets/DT%20CV%202018%20(1).pdf"><b>here</b><a/> or alternatively, you can download a word version of my CV <a href="{{ site.url }}/assets/DT%20CV%202018%20.docx"><b>here</b></a>.
 
 # Summary
 I am returning to Melbourne after living in the Middle East as a contracted rugby player in Bahrain (Middle East). I have a degree in Aviation Management minoring in Marketing along with seven year’s experience within sales and digital marketing. Prior to living in the Middle East, I worked with OpenText (NASDAQ:OTEX), an Enterprise Information Management vendor.
