@@ -6,7 +6,6 @@ tags: [sales]
 ---
 
 <img src="https://images.unsplash.com/photo-1516531558361-f6c4c956ad85?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2888780ded892c5ba5fe5ca292779541&auto=format&fit=crop&w=700&q=60">
-
 We’re seeing a diverse spectrum of Millennials really embedded into the work place. Given they’re born from the late 80’s to the late 90’s they’re everywhere. Middle and senior management, entry level jobs, the c-level. Some of us are making bank, some chasing far fetched dreams and others just plain lost. 
 
 Within the sales and marketing space - the soft skills have never changed. Listening to people, fostering relationships, opening and closing deals, time management, being a salesperson with integrity. However in 2018 and beyond - the technical skills are drastically different. Whilst we smirk at the 50 year old manager who has the extra large font on their iPhone and prints off all their emails, we must be aware that there are technical skills we can’t leave behind in order to allow us to evolve.
