@@ -110,7 +110,8 @@ workflows using the sales cloud component of salesforce
 
 ## Hobbies and Interests
 
-**Music** -  I enjoy listening to a variety of music and record some music as well. Photography  - Something that I have been working on
-**Blogging**  - My blog is based around sales, rugby and entrepreneuralism
+**Music** -  I enjoy listening to a variety of music and record some music as well. Photography  - Something that I have been working on.
+
+**Blogging**  - My blog is based around sales, rugby and entrepreneuralism.
 
 ## References Available on request
