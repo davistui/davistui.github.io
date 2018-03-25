@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Five Technical Skills New Sales People Need
-category: blog
+category: sales
 tags: [sales]  
 ---
 
