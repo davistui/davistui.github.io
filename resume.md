@@ -1,47 +1,40 @@
 ---
 layout: post
-title: Davis Tui Resume 2018
-introduction: My Resume
+title: My Resume
+introduction: Davis Tui Resume 2018
 category: Resume
 ---
+> For a PDF copy of my CV, you can download it <a href="{{ site.url }}/assets/DT%20CV%202018%20(1).pdf"><b>here</b></a> or alternatively, you can download a word version of my CV <a href="{{ site.url }}/assets/DT%20CV%202018.docx"><b>here</b></a>.
 
-> For a PDF copy of my CV, you can download it <a href="{{ site.url }}/assets/DT%20CV%202018%20(1).pdf"><b>here</b><a/> or alternatively, you can download a word version of my CV <a href="{{ site.url }}/assets/DT%20CV%202018.docx"><b>here</b></a>.
-
-# Summary
-I am returning to Melbourne after living in the Middle East as a contracted rugby player in Bahrain (Middle East). I have a degree in Aviation Management minoring in Marketing along with seven year’s experience within sales and digital marketing. Prior to living in the Middle East, I worked with OpenText (NASDAQ:OTEX), an Enterprise Information Management vendor.
+## Summary
+I am returning to Melbourne after living in the Middle East as a contracted rugby player in Bahrain (Middle East). I have a degree in Aviation Management minoring in Marketing along with seven year’s experience within sales and digital marketing. Prior to living in the Middle East, I worked with OpenText <a href="https://www.nasdaq.com/g00/symbol/otex" target="_blank">(NASDAQ:OTEX)</a>, an Enterprise Information Management vendor.
 
 At a high level my role entailed creating sales and marketing strategies, value engineering and understanding supply chain optimisation. At an operational level my role incorporated pitching clients, closing deals, creating relevant marketing content and assisting the territory within a wider global organisation.
 
-# Key Skills
+## Key Skills
 ✓ Understanding client pain points at a technical and non-technical level.
-
 ✓ High level strategy development and execution to generate business opportunities in different industries.
-
 ✓ Qualifying new business opportunities amongst different business units and driving sales closes.
-
 ✓ Mapping industry trends to business capabilities and identifying new areas for business.
 
-# Employment History
+## Employment History
 
-## Rugby Player
-### Bahrain Rugby Football Union, Bahrain
-#### August 2016 – April 2018
+# Rugby Player - <a href="http://bahrainrfc.com/" target="_blank">Bahrain Rugby Football Union Bahrain</a>
+#### __August 2016 – April 2018__ 
 
 • Having won a premiership here in Melbourne, my role as a player was to help guide the team to the finals and uphold my duties as a rugby player (training, community work, professional development).
 
-• During my time in Bahrain, I founded a digital agency  marketingbh.com  and attained my IRB level one coaching certificate.
+• During my time in Bahrain, I founded a digital agency  marketingbh.com and attained my IRB level one coaching certificate.
 
-## Project Manager - Data Migration
-### Trade Victoria, Melbourne 
-#### May 2017 - July 2017
+## Project Manager (Data Migration) - <a href="https://trade.vic.gov.au/" target ="_blank">Trade Victoria, Melbourne</a>
+#### __May 2017 - July 2017__ 
 
 • During the offseason, I had an opportunity to consult within Trade Victoria around migrating event data between Salesforce and Cvent
 
 • The project involves migrating data between the two platforms, gathering requirements and taking a technical lead to architect a more efficient process and solution to managing their records and reporting back on Trade Events.
 
-## Senior Account Development Representative – Australia/New Zealand
-### OpenText, Melbourne  (NASDAQ:OTEX) 
-#### August 2014 – September 2016
+# Senior Account Development Representative – Australia/New Zealand | <a href="https://www.opentext.com" target ="_blank">OpenText, Melbourne</a> <a href="https://www.nasdaq.com/g00/symbol/otex" target="_blank">(NASDAQ:OTEX)</a>
+#### __August 2014 – September 2016__
 
 • I worked with Account Executives and Solution Consultants to recognise information management projects within different business units. My role was to qualify needs in relation to our product set (over 1000 products) and work within a pre-sales and marketing capacity to help close deals.
 
@@ -55,8 +48,7 @@ At a high level my role entailed creating sales and marketing strategies, value 
 
 • Managed the reporting and business process improvement of our salesforce environment
 
-## Inside Sales Specialist – Australia/New Zealand
-### ClickSoftware, Melbourne  (NASDAQ:CKSW)
+## Inside Sales Specialist – Australia/New Zealand | ClickSoftware, Melbourne  (NASDAQ:CKSW)
 #### February 2013 – July 2014
 
 • I was tasked to qualify prospects and recognise enterprise projects within mobile workforce management.
@@ -71,8 +63,7 @@ At a high level my role entailed creating sales and marketing strategies, value 
 
 • Built dashboards and reporting tools for senior management within our Salesforce environment.
 
-## National Inside Sales Specialist – New Zealand
-### Treat Me, Wellington  (ASX:TME) 
+## National Inside Sales Specialist – New Zealand | Treat Me, Wellington  (ASX:TME) 
 #### September 2010 – May 2012
 
 • Founding member of Trade Me’s startup (which later was apart of a management buyout)
@@ -85,7 +76,7 @@ workflows using the sales cloud component of salesforce
 
 • New business development around the country and launched an extra business line
 
-# Education
+## Education
 
 • Currently studying towards Salesforce ADM 201, JB 101, ADM 251 certifications.
 • Certificate from the Wharton Business School in Customer Analytics (2016)
@@ -94,15 +85,16 @@ workflows using the sales cloud component of salesforce
 • Negotiation and Account Management Certificates, Talent2 (2012)
 • Certificate in Career and Self-Development Open Polytech, New Zealand (2012)
 
-# Software Skills
+## Software Skills
 
 • Salesforce – as an advanced user, I am in the process of becoming certified with ADM 201
 • Microsoft Office Package (Windows 7 and Office 2010)
 • Google suite (Google analytics, trends and generic Google tools)
 • HTML, CSS, wordpress, python
-# Hobbies and Interests
+
+## Hobbies and Interests
 
 Music -  I enjoy listening to a variety of music and record some music as well. Photography  - Something that I have been working on
 Blogging  - My blog is based around sales, rugby and entrepreneuralism
 
-# References Available on request
+## References Available on request
