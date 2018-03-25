@@ -12,32 +12,35 @@ I am returning to Melbourne after living in the Middle East as a contracted rugb
 At a high level my role entailed creating sales and marketing strategies, value engineering and understanding supply chain optimisation. At an operational level my role incorporated pitching clients, closing deals, creating relevant marketing content and assisting the territory within a wider global organisation.
 
 ## Key Skills
-✓ Understanding client pain points at a technical and non-technical level.</br>
-✓ High level strategy development and execution to generate business opportunities in different industries.</br>
-✓ Qualifying new business opportunities amongst different business units and driving sales closes.</br>
-✓ Mapping industry trends to business capabilities and identifying new areas for business.</br>
+✓ Understanding client pain points at a technical and non-technical level.
+
+✓ High level strategy development and execution to generate business opportunities in different industries.
+
+✓ Qualifying new business opportunities amongst different business units and driving sales closes.
+
+✓ Mapping industry trends to business capabilities and identifying new areas for business.
 
 ## Employment History
 
-** Rugby Player </br>
-Bahrain Rugby Football Union Bahrain</br>
-August 2016 – April 2018 </br> **
+# Rugby Player
+# Bahrain Rugby Football Union Bahrain
+# August 2016 – April 2018
 
 • Having won a premiership here in Melbourne, my role as a player was to help guide the team to the finals and uphold my duties as a rugby player (training, community work, professional development).
 
 • During my time in Bahrain, I founded a digital agency  marketingbh.com and attained my IRB level one coaching certificate.
 
-** Project Manager (Data Migration) </br>
-Trade Victoria, Melbourne </br>
-May 2017 - July 2017 **
+Project Manager (Data Migration)
+Trade Victoria, Melbourne
+May 2017 - July 2017
 
 • During the offseason, I had an opportunity to consult within Trade Victoria around migrating event data between Salesforce and Cvent
 
 • The project involves migrating data between the two platforms, gathering requirements and taking a technical lead to architect a more efficient process and solution to managing their records and reporting back on Trade Events.
 
-** Senior Account Development Representative – Australia/New Zealand </br>
-OpenText, Melbourne (NASDAQ:OTEX) </br>
-August 2014 – September 2016 **
+# Senior Account Development Representative – Australia/New Zealand
+# OpenText, Melbourne (NASDAQ:OTEX)
+# August 2014 – September 2016
 
 • I worked with Account Executives and Solution Consultants to recognise information management projects within different business units. My role was to qualify needs in relation to our product set (over 1000 products) and work within a pre-sales and marketing capacity to help close deals.
 
@@ -51,9 +54,9 @@ August 2014 – September 2016 **
 
 • Managed the reporting and business process improvement of our salesforce environment
 
-** Inside Sales Specialist – Australia/New Zealand </br>
-ClickSoftware, Melbourne  (NASDAQ:CKSW) </br>
-February 2013 – July 2014 **
+# Inside Sales Specialist – Australia/New Zealand
+# ClickSoftware, Melbourne  (NASDAQ:CKSW)
+# February 2013 – July 2014
 
 • I was tasked to qualify prospects and recognise enterprise projects within mobile workforce management.
 
@@ -67,9 +70,9 @@ February 2013 – July 2014 **
 
 • Built dashboards and reporting tools for senior management within our Salesforce environment.
 
-** National Inside Sales Specialist – New Zealand </br>
-Treat Me, Wellington  (ASX:TME) </br>
-September 2010 – May 2012 **
+# National Inside Sales Specialist – New Zealand 
+# Treat Me, Wellington  (ASX:TME) 
+# September 2010 – May 2012
 
 • Founding member of Trade Me’s startup (which later was apart of a management buyout)
 
