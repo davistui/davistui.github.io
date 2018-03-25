@@ -5,7 +5,7 @@ category: blog
 tags: [sales]  
 ---
 
-<img src="https://images.unsplash.com/photo-1521377134373-49b242b5fd0e?ixlib=rb-0.3.5&s=169e6cf37bd3d83e989ead977531f69e&auto=format&fit=crop&w=664&q=80">
+<img src="https://images.unsplash.com/photo-1516531558361-f6c4c956ad85?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2888780ded892c5ba5fe5ca292779541&auto=format&fit=crop&w=700&q=60">
 
 We’re seeing a diverse spectrum of Millennials really embedded into the work place. Given they’re born from the late 80’s to the late 90’s they’re everywhere. Middle and senior management, entry level jobs, the c-level. Some of us are making bank, some chasing far fetched dreams and others just plain lost. 
 
