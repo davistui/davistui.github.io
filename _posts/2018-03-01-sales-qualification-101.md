@@ -11,13 +11,12 @@ With sales being one of the oldest professions in the world, it’s not surprisi
 
 So similar to movies, whilst there are untold thousands of movies - they all roughly follow a similar set of rules. Sales qualification is similar. There are thousands of ways we can qualify prospects, however the set of rules is roughly the same. I’ve always spent time to find ways to streamline this process, find better ways to qualify and give me an ‘edge’ when it comes to making this an autonomous process that leads to building and closing more pipeline. I’ve tried various methods but I’ve found the B.A.N.T method has served me well. That is qualifying prospects according to their Budget, Authority, Need, Timeline.
 
-
 > **There are thousands of ways we can qualify prospects, however the set of rules is roughly the same.**
-
 
 The rules are simple, answer all four questions in a way that aligns with your company sales process and you move into pricing out a proposal and moving the prospect down the pipeline towards closing.
 
 ![](https://images.unsplash.com/photo-1506169894395-36397e4aaee4?ixlib=rb-0.3.5&s=0adf39552a3f95577219a702971860e0&auto=format&fit=crop&w=1050&q=80)
+
 ## Why BANT?
 * It’s lightweight. Four questions. That’s it. This forces you away from scripts and moves you into a more natural conversation.
 * It forces you to listen. You don’t have a zillion questions or opportunities to cut off the prospect when they’re speaking. In a way it leaves you naked because you’ve got nothing to say (which is counterintuitive for sales people I know) and have to allow the prospect to do the talking for you to find where the opportunity really lies.
