@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Davis Tui Resume 2018
 introduction: My Resume
 category: Resume
