@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My time as a contracted rugby player
+title: My Time As A Rugby Player
 category: rugby
 tags: [rugby]  
 ---
