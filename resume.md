@@ -4,10 +4,10 @@ title: My Resume
 introduction: Davis Tui Resume 2018
 category: Resume
 ---
-> For a PDF copy of my CV, you can download it <a href="{{ site.url }}/assets/DT%20CV%202018%20(1).pdf"><b>here</b></a> or alternatively, you can download a word version of my CV <a href="{{ site.url }}/assets/DT%20CV%202018.docx"><b>here</b></a>.
+> For a PDF copy of my CV, you can download it <a href="{{ site.url }}/assets/DT%20CV%202018.pdf"><b>here</b></a> or alternatively, you can download a word version of my CV <a href="{{ site.url }}/assets/DT%20CV%202018.docx"><b>here</b></a>.
 
 ## Summary
-I am returning to Melbourne after living in the Middle East as a contracted rugby player in Bahrain (Middle East). I have a degree in Aviation Management minoring in Marketing along with seven year’s experience within sales and digital marketing. Prior to living in the Middle East, I worked with OpenText <a href="https://www.nasdaq.com/g00/symbol/otex" target="_blank">(NASDAQ:OTEX)</a>, an Enterprise Information Management vendor.
+I have recently returned to Melbourne after living in the Middle East as a professional rugby player. I have a degree in Aviation Management minoring in Marketing along with seven year’s experience within sales and digital marketing. Prior to living in the Middle East, I worked with OpenText <a href="https://www.nasdaq.com/g00/symbol/otex" target="_blank">(NASDAQ:OTEX)</a>, an Enterprise Information Management vendor.
 
 At a high level my role entailed creating sales and marketing strategies, value engineering and understanding supply chain optimisation. At an operational level my role incorporated pitching clients, closing deals, creating relevant marketing content and assisting the territory within a wider global organisation.
 
