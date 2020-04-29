@@ -7,20 +7,27 @@ category: Resume
 > For a PDF copy of my CV, you can download it <a href="{{ site.url }}/assets/DT%20CV%202018.pdf"><b>here</b></a> or alternatively, you can download a word version of my CV <a href="{{ site.url }}/assets/DT%20CV%202018.docx"><b>here</b></a>.
 
 ## Summary
-I have recently returned to Melbourne after living in the Middle East as a professional rugby player. I have a degree in Aviation Management minoring in Marketing along with seven year’s experience within sales and digital marketing. Prior to living in the Middle East, I worked with OpenText <a href="https://www.nasdaq.com/g00/symbol/otex" target="_blank">(NASDAQ:OTEX)</a>, an Enterprise Information Management vendor.
+I have spent the last two years as an Account Executive for <a href="https://www.outsystems.com" target="_blank">OutSystems</a>, a low code platform that automates elements of software development to build mobile and web applications at speed. Working in the enterprise space, I have worked with a range of enterprise organisations in public sector and ASX500 companies. With the disruptive change businesses are going through, I have been able to work towards positioning the strategic value of technology and aligning towards an outcome that translates into tangible value.
 
-At a high level my role entailed creating sales and marketing strategies, value engineering and understanding supply chain optimisation. At an operational level my role incorporated pitching clients, closing deals, creating relevant marketing content and assisting the territory within a wider global organisation.
+I have a degree in Aviation Management minoring in Marketing along with seven year’s experience within sales and digital marketing. 
 
 ## Key Skills
-✓ Understanding client pain points at a technical and non-technical level.
+✓ Selling into the enterprise and ASX space
 
-✓ High level strategy development and execution to generate business opportunities in different industries.
+✓ Understanding enterprise pain points at a technical and non-technical level and translating this into value based consulting.
 
 ✓ Qualifying new business opportunities amongst different business units and driving sales closes.
 
 ✓ Mapping industry trends to business capabilities and identifying new areas for business.
 
 ## Employment History
+
+
+# Account Executive - Southern Region (WA,SA,TAS,VIC)
+# OutSystems 
+# May 2018 – Present
+
+• I sell into the enterprise space primarily in Victoria and Western Australia. With the changing landscape of our businesses, I have helped build out sales tools that align to building value within organisations. Strategic workshops, battle cards, technical proof points, marketing events in order to grow awareness of OutSystems as the organisation has only has an Australia/New Zealand presence for the last four years.
 
 # Rugby Player
 # Bahrain Rugby Football Union Bahrain
