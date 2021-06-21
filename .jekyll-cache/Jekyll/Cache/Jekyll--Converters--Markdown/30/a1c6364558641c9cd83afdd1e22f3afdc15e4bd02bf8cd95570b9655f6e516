@@ -1,0 +1,96 @@
+I"?<p><img src="/images/avatar.jpg" alt="avatar" /> I’ve always been drawn to blogging/writing as a way to share my ideas and a document how life is changing in the new normal but never got round to it. One of my main problems is that all the CMS solutions I’ve tried always left me with the impression that they were slow, ugly and expensive.</p>
+
+<p>It was either browsing reddit or reading Hacker news a few years back but I stumbled across Jekyll - the static site generator back in 2016. I was immediately drawn to it because:</p>
+
+<ul>
+  <li>
+    <p>It felt lightweight for a blogging tool and I had a general grasp of how it’s all put together with Ruby.</p>
+  </li>
+  <li>
+    <p>The <a href="https://html5up.net/">html5up</a> static pages I’d used in the past on other projects had been converted into themes that I could repurpose</p>
+  </li>
+  <li>
+    <p>If you hosted it on <a href="https://pages.github.com/">Github pages</a>, it was free and I’d be able to keep this up on the internet forever.</p>
+  </li>
+</ul>
+
+<h2 id="how-to-update-jekyll-to-run-your-on-your-macbook-in-2021">How to update Jekyll to run your on your MacBook in 2021</h2>
+
+<p>Whilst I’d used it on past projects, I wasn’t expecting to be hit with so many errors and needing to read documentation. So if you try this:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  <span class="n">gem</span> <span class="n">install</span> <span class="n">bundler</span> <span class="n">jekyll</span>
+  <span class="n">jekyll</span> <span class="n">new</span> <span class="n">my</span><span class="o">-</span><span class="n">awesome</span><span class="o">-</span><span class="n">site</span>
+  <span class="n">cd</span> <span class="n">my</span><span class="o">-</span><span class="n">awesome</span><span class="o">-</span><span class="n">site</span>
+  <span class="n">bundle</span> <span class="nb">exec</span> <span class="n">jekyll</span> <span class="n">serve</span>
+<span class="c1"># =&gt; Now browse to http://localhost:4000</span>
+</code></pre></div></div>
+
+<p>You just end up being met errors in the terminal. It got pretty stressful towards the end where I considered just buying a new laptop in order to just ‘start again’ but with the help of Reddit, Github and Stack Overflow, I’ve found a way to update my machine so that I can run jekyll on a localhost.</p>
+
+<blockquote>
+  <p><strong><em>Disclaimer, I’m not exactly technical so if anyone knows how to do this properly, let me know</em></strong></p>
+</blockquote>
+
+<ol>
+  <li>
+    <p>Make sure you’re working on BigSur (I’m working on 11.4)</p>
+  </li>
+  <li>
+    <p>Update xcode on your machine to 12.5 via the appstore. The update froze a few times so force quitting and restaring the machine seemed to work.</p>
+  </li>
+  <li>
+    <p><strong>Open xcode to accept the terms and conditions</strong>. Something I kept forgetting to do.</p>
+  </li>
+  <li>
+    <p>Open terminal and install Homebrew and Ruby (aiming to get v3.0.1 or higher) like so:</p>
+
+    <div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Install Homebrew</span>
+<span class="sr">/bin/</span><span class="n">bash</span> <span class="o">-</span><span class="n">c</span> <span class="s2">"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</span>
+   
+<span class="c1"># Install Ruby</span>
+<span class="n">brew</span> <span class="n">install</span> <span class="n">ruby</span>
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Add the brew ruby and gems path to your shell configuration. Terminal has moved from bash to a zsh terminal. I have no idea what that means but I copied this:</p>
+
+    <div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">echo</span> <span class="s1">'export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"'</span> <span class="o">&gt;&gt;</span> <span class="o">~</span><span class="sr">/.zshrc
+</span></code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Install Jekyll:</p>
+
+    <div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">gem</span> <span class="n">install</span> <span class="n">bundler</span> <span class="n">jekyll</span>
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Install the webricks dependancy. I think this is to get your localhost up and running</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem install webrick
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Restart just to be safe 🤷🏽‍♂️</p>
+  </li>
+  <li>
+    <p>Update gems:</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem update system
+</code></pre></div>    </div>
+  </li>
+  <li>Change directory and run jekyll serve so that you can check any errors so that you can google how to resolve from there.</li>
+  <li>If you’re like me using an older theme, then go back into it and pray that it works</li>
+</ol>
+
+<h2 id="key-things-to-remember">Key things to remember:</h2>
+
+<ul>
+  <li>Check the config and the gem file for any syntax issues</li>
+  <li>Trying not to cry over how slow the process is.</li>
+  <li>Pray that you never have to do this process again.</li>
+</ul>
+
+<h2 id="final-thoughts">Final thoughts</h2>
+
+<p>This definately isn’t the best way approach but it worked for me. I’m sure that I’ll be able to revisit this with the exact instructions to make it easier for people to use the platform.</p>
+:ET
