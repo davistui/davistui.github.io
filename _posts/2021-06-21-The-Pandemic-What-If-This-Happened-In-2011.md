@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Pandemic: What If This Happened In 2011?
+title: The Pandemic, What If This Happened In 2011?
 category: Technology
 date: 2021-06-21
 
