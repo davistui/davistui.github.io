@@ -6,7 +6,7 @@ date: 2021-06-21
 
 ---
 
-![covid-19](/images/covid-19.PNG)We're close to the end of the financial year and the vibrant buzz that's normally around definately feels muted. As I finish off some emails on a wintery day, it's a thought that always crosses my mind - what would it have been like if the pandemic struck in 2011?
+![covid-19](/images/covid-19.PNG)We're days away from the end of the financial year and the vibrant buzz that's normally felt in the business community definately feels muted. As I finish off some emails on a wintery day, it's a thought that always crosses my mind - what would it have been like if the pandemic struck in 2011?
 
 [Antennae gate](https://www.businessinsider.com.au/apple-antennagate-scandal-timeline-10-year-anniversary-2020-7?r=US&IR=T) with the iPhone 4 was in the news, cloud storage didn't sound as appealing, the group buying phenomenom was reaching Australia and New Zealand and a new word had officially been recognised: *blockchain*. 
 
