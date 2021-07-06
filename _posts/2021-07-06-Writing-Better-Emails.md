@@ -2,7 +2,7 @@
 layout: post
 title: Writing Better Sales Emails
 category: Sales
-date: 2021-06-07
+date: 2021-07-06
 
 ---
 
