@@ -2,8 +2,7 @@
 layout: post
 title: Digital marketing today
 introduction: Digital marketing overview for the everday person.
-category: marketing
-tags: [marketing]
+category: Marketing
 ---
 
 <img src="https://images.unsplash.com/photo-1448317846460-907988886b33?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c29e88927cbae491482117b4dcee1e36&auto=format&fit=crop&w=700&q=60">

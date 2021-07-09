@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Sales Qualification 101
-category: sales
-tags: [sales]
+category: Sales
 introduction: The foundation of sales always starts with qualificiation.
 ---
 
