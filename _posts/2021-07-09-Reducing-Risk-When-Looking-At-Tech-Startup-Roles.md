@@ -6,7 +6,7 @@ date: 2021-07-09
 
 ---
 
-![gartner](images/graphs.jpeg)I came across this [great article](https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany/?trackingId=hminS2AWRUO1DdBXUxA8JA%3D%3D) from 2016 that looked at the Gartner Hype Cycle of Emerging Technologies. Of about 200 technologies that have emerged in the last 20 years, only 50 of them have stayed around. The startup I currently work for felt like it could've hit they wayside. Three years on, it's legitamately going from strength to strength.
+![graphs](images/graphs.jpeg)I came across this [great article](https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany/?trackingId=hminS2AWRUO1DdBXUxA8JA%3D%3D) from 2016 that looked at the Gartner Hype Cycle of Emerging Technologies. Of about 200 technologies that have emerged in the last 20 years, only 50 of them have stayed around. The startup I currently work for felt like it could've hit they wayside. Three years on, it's legitamately going from strength to strength.
 
 This is the third startup that I'll go public with and I encourage people to consider startups at least once in their career. Given there are loads of tech startups, I thought I'd put together ways to reduce the risk when considering a sales role in a startup.
 
