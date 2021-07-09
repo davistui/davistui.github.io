@@ -14,7 +14,7 @@ As I write this, we’re days away from a home final which hasn’t happened in 
 
 It was quite an incredible experience with the opportunity to travel, experiencing middle eastern culture and learning a little bit about what I’m made of. I always found it a surreal experience of swapping the suit for trainers and moving conversations from 'continual improvement of enterprise grade software' to 'how we were planning on tucking up the opposition in the scrums and line outs'. So I thought I’d write this to give a few quirky insights to what it was like playing rugby given I had done a 180 and changed my career entirely.
 
-![Dads](/images/rugby2.jpg)
+![Dads](/images/rugby3.jpg)
 # You can never master your washing pile.
 The amount of clothing you go through is insane! You’re training everyday and certain days you’re required to wear particular training kit. Not to mention travelling and game day attire. Then you have particular shoes and boots you train in and then casual wear. Plus we’re in the Middle East so  it all ends up a huge sweaty mess. So if you end up working out in the morning, doing a hydro session, meet friends for lunch and then train in the evening to eventually get into some pyjamas - that’s a lot of clothing for one day!
 
@@ -26,13 +26,11 @@ One thing I never considered with sports is the way it makes you become tougher.
 
 With this kind of mental game, it’s easy for your personal game to fall into a slump. Luckily, rugby has simple tools - fitness, nutrition and skills work and you can work on and improve your game. Unless you’re like me and not the biggest fan of running so you’re always ‘improving’.
 
-<img src="https://scontent.fbah6-1.fna.fbcdn.net/v/t31.0-8/27501123_1611666835583965_1434392799674658539_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeHJVQykSOtNB0AUS3fOLdaMYQ35fKlndz3xTLu-tiI_QWFpZ_AqS7XjfCBT8LZ_c7PZoBbWHCkoRmAwf0iaMLrboZHrHPLFjoozNeQYNXrBdQ&oh=899d5b8a05ee35109cfae8527c070345&oe=5B3BFF69">
 # Boredom is a real enemy which is harder to beat than you think.
 The hardest thing I found was the exposure to boredom. It sounds counter intuitive given the lifestyle of playing sports for a living. However because you can’t exercise all day everyday, you can find yourself in limbo from time to time. 
 
 That sweet spot when you’re too tired after training in the morning where you feel like you should do something but really you just want to eat your breakfast and play playstation. Or when you can’t organise many evening activities because training finished too late and you’re playing rugby in the weekend. Down time was always important to ensure peak performance however you’d find yourself from time to time with too much time on your hands.
 
-<img src="https://scontent.fbah6-1.fna.fbcdn.net/v/t1.0-9/24131054_10213049218697056_826846418501579799_n.jpg?_nc_cat=0&_nc_eui2=v1%3AAeH-brCJ4_huFUQ-FxpKEymtD2Le1HR9wfA5k8BpIclPiIwwYx8_hQuOM2S7Qzed1t5_yBRfmGD_qXmphEf_7GwqoyV1g_vxtPVkkEC86lhcXQ&oh=27e418646f3f44fe3aff7eb95684f756&oe=5B403F49">
 # The game we play is growing!
 Born and raised in NZ as a Samoan, rugby plays a big part in our identity. Some of the experiences through rugby were inspiring and showed me what we can achieve and that the game is growing and how it’s changing peoples lives! 
 
