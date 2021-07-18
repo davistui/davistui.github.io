@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Digital Customer Experience For Prospects
+title: The Digital Experience At The Laundromat
 category: Sales
 date: 2021-06-25
 
