@@ -2,7 +2,7 @@
 Layout: post
 title: How To Remember What You Read
 category: Lifestyle Design
-date: 2021-08-16
+date: 2021-16-08
 ```
 
 ![how-to-remember-what-you-read](images/reading.jpeg)It's a familiar problem. You read a page or two and then go back to where you started and draw a complete blank at what you've just read. So like a toxic relationship, you start again only to reach the bottom of the page and completely forget what you've just read.
