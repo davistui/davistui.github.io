@@ -6,7 +6,7 @@ date: 2021-08-17
 
 ---
 
-![reading](/images/reading.jpeg)It's a familiar problem. You read a page or two and then go back to where you started and draw a complete blank at what you've just read. So like a toxic relationship, you start again only to reach the bottom of the page and completely forget what you've just read.
+![reading](/images/remember.jpeg)It's a familiar problem. You read a page or two and then go back to where you started and draw a complete blank at what you've just read. So like a toxic relationship, you start again only to reach the bottom of the page and completely forget what you've just read.
 
 The cycle continues until you hate reading and reduce yourself to click-bait articles to form entire opinions. So here are some tips on how to retain information when reading. Firstly, let's start with a common misconception.
 
