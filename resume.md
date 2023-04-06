@@ -8,9 +8,7 @@ category: Resume
 ## Overview
 *The <a href="https://drive.google.com/file/d/1VpGOVyfukfy3FHqYYFbynLVbaxdrLzub/view?usp=share_link" target="_blank">PDF copy</a> provided is a summarised version, while an expanded version is available below*
 
-I am currently an Account Executive with [OutSystems](https://outsystems.com/), an enterprise application development platform. I have closed enterprise deals in Government, Healthcare and Mining. I have also grown one of our sales territories Western Australia (whilst based in Melbourne) into the Country's fastest growing region.
-
-With the shift into the new normal, my approach to sales has grown into a more consultative approach. Lately, my focus has been on understanding customer pain points and how they prevent organisations achieving their strategic goals. This information guides me to build a bridge between value based outcomes and fair commercial offerings.
+For the past five years, I've worked as an Account Executive at [OutSystems](https://outsystems.com/). OutSystems is a low-code platform that enables businesses to develop and deploy complex applications quickly and efficiently, without the need for extensive coding expertise. I have closed enterprise deals in Government, Healthcare and Mining.
 
 ## Key Skills
 
@@ -28,7 +26,7 @@ May 2018 - 2023
 
 OutSystems is a low-code development platform that enables organisations to rapidly build and deploy custom applications. Through the hypergrowth journey, through to the unicorn evaluation, I worked in the commercial and enterprise space selling to a range of customers from Oil and Gas, Public Sector to Startups. In this journey, I worked on developing relationships with Global SI's (such as Deloitte, DXC, NRI) and technology partners (AWS, UIPath) to scale my ability to generate more pipeline. The diversity of the role encouraged me to create marketing assets and campaigns to localise our messaging to something relevant to Australian organisations.
 
-Common responsibilities included:
+**Common responsibilities included:**
 
 * Executing end to end sales process from discovery/qualification to close
 * Working with technical persona's to articulate business value
@@ -47,7 +45,7 @@ August 2014 - September 2016
 
 As a Business Development Representative (BDR) in the Enterprise Content Management (ECM) space, my role involved identifying potential clients and establishing relationships with them. You collaborated closely with Account Executives (AEs) and Solution Consultants (SCs) to develop and maintain a rolling pipeline of qualified leads that could be converted into sales.
 
-Common responsibilities included:
+**Common responsibilities included:**
 
 * Conducting research on prospective clients, identifying decision-makers and influencers within target companies 
 * Contacting prospects via phone, email, or social media to introduce your company's ECM solutions. 
@@ -59,7 +57,7 @@ February 2013 - July 2014
 
 As an Inside Sales Representative (ISR) in the workforce management space, I worked to identify digital opportunities in field service management, utilities, and transportation. The software enabled businesses to optimize scheduling, dispatching, and task management for their mobile workforce.
 
-Common responsibilities included:
+**Common responsibilities included:**
 
 * Qualifying leads and determining their level of interest and fit with the company's products or services
 * Contacting potential clients via email, phone, or social media to introduce the company and its offerings
@@ -67,9 +65,9 @@ Common responsibilities included:
 
 ## Education
 
-• IRB Level 1 Coaching (2017)
-• Certificate from the Wharton Business School in Customer Analytics (2016)
-• Bachelor of Aviation Management, Massey University, New Zealand (2010) 
+* IRB Level 1 Coaching (2017)
+* Certificate from the Wharton Business School in Customer Analytics (2016)
+* Bachelor of Aviation Management, Massey University, New Zealand (2010) 
 
 ## Hobbies and Interests
 
