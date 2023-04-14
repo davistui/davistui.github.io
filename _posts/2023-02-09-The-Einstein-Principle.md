@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Remember What You Read
+title: The Einstein Principle: Working Smarter Not Harder towards Brown Excellence
 category: Lifestyle Design
 date: 2023-02-09
 ---
