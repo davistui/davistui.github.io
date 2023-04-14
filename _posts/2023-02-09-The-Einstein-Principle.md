@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Einstein Principle: Working Smarter Not Harder towards Brown Excellence
+title: The Einstein Principle For Brown Excellence
 category: Lifestyle Design
 date: 2023-02-09
 ---
