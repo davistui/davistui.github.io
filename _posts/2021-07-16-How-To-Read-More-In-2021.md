@@ -1,7 +1,6 @@
 ---
 layout: post
-title: How To Read More In 2021
-introduction: Will Smith's acceptance speech at the 2009 Nickelodeon Kids' Choice Awards lives in my head rent free.
+title: How to Read More In 2021
 category: Lifestyle Design
 date: 2021-07-16
 ---
