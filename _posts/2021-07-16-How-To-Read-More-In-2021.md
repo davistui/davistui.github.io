@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Read More In 2021
-category: Lifestyle Design
+category: Productivity
 date: 2021-07-16
 ---
 

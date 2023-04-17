@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Einstein Principle For Brown Excellence
-category: Lifestyle Design
+category: Productivity
 date: 2023-02-09
 ---
 

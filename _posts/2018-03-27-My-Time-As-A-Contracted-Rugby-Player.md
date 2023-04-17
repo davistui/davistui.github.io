@@ -1,8 +1,7 @@
 ---
 layout: post
 title: My Time As A Rugby Player
-category: Rugby
-  
+category: Sports
 ---
 
 ![Championship](/images/rugby4.jpg)

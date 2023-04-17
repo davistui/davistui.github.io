@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Pandemic, What If This Happened In 2011?
-category: Technology
+category: Lifestyle Design
 date: 2021-06-21
 
 ---

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Using Jekyll in 2021
-category: Technology
+category: Productivity
 date: 2021-06-16
-
 ---
 
 ![avatar](/images/avatar.jpg) I've always been drawn to blogging/writing as a way to share my ideas and a document how life is changing in the new normal but never got round to it. One of my main problems is that all the CMS solutions I've tried always left me with the impression that they were slow, ugly and expensive.
