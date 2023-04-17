@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Why I Coudln't Quit My Job And Follow My Dreams
-category: Reflection
-date: 2021-30-06
+title: Why I Couldn't Follow My Dreams
+category: Lifestyle Design
+date: 2021-06-30
 ---
 
-When I finally upgraded my YouTube subscription to allow ad free, offline playback on my lockdown walks, I'd stumble across content creators who have successfully managed to build their audiences and work full time working everyday on something they loved. From photographers, musicians through to productivity gurus and consumer tech reviewers, they all managed to build incredible income from simply turning on a camera, editing a video and then watch as the millions of people would tune in and listen to every word.
+![rugby](/images/rugby3.jpg)When I finally upgraded my YouTube subscription to allow ad free, offline playback on my lockdown walks, I'd stumble across content creators who have successfully managed to build their audiences and work full time working everyday on something they loved. From photographers, musicians through to productivity gurus and consumer tech reviewers, they all managed to build incredible income from simply turning on a camera, editing a video and then watch as the millions of people would tune in and listen to every word.
 
 I'm not alone when it comes to being drawn to ideas of not having to work for someone and making money off the internet. I feel like I've had two opportunities to capatalise on this and I've failed both times. First when I was a Uni student 10+ years ago and a few years back when I was playing rugby full time and was trying to figure out my pathway once I became too old for the game. 
 
