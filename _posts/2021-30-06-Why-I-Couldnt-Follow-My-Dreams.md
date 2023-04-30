@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I Couldn't Follow My Dreams
-category: Productivity
+category: Lifestyle Design
 date: 2021-06-30
 ---
 
