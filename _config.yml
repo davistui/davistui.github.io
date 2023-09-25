@@ -1,12 +1,9 @@
 # Site settings
 title: Learn More about Davis Tui
 email: davis.tui@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Welcome to Davis Tui's personal blog, where you'll find helpful tips and insights on technology, low-code, sales, and productivity
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://davistui.com" # the base hostname & protocol for your site
+url: "https://davistui.com" # the base hostname & protocol for your site
 twitter_username: honest2davis
 github_username:  davistui
 permalink: /blog/:title

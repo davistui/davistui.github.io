@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reducing Risk When Looking At Startup Sales Roles
-category: Sales
+category: Sales & Marketing
 date: 2021-07-09
 
 ---

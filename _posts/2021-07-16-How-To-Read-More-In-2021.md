@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How to Read More In 2021
-category: Lifestyle Design
+category: Productivity
 date: 2021-07-16
 ---
 
-![books](/images/books.jpeg)Will Smith's acceptance speech at the 2009 Nickelodeon Kids' Choice Awards lives in my head rent free. He's just won favourite movie actor for Hancock. As he clutches his orange blimp trophy, he gives the keys to life: **reading and running**. His take on reading:
+![books](/images/books.avif)Will Smith's acceptance speech at the 2009 Nickelodeon Kids' Choice Awards lives in my head rent free. He's just won favourite movie actor for Hancock. As he clutches his orange blimp trophy, he gives the keys to life: **reading and running**. His take on reading:
 
 > *There have been billions of people who have lived before us, so there's no new problem that you could have in your life. Whether it be with your parents, school with a bully, with anything. There's no problem you can have that someone hasn't already solved and written into a book.*
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing Better Sales Emails
-category: Sales
+category: Sales & Marketing
 date: 2021-07-06
 
 ---
