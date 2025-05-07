@@ -20,9 +20,8 @@ Enterprise Account Executive with over a decade of experience in SaaS sales, spe
 
 ## Employment History
 
-### Eptura – Enterprise Account Executive (Hybrid)
-
-Melbourne, Australia | December 2023 – Present
+### [Eptura](https://eptura.com/) - Account Executive ANZ (Hybrid)
+**Melbourne, Australia | December 2023 - Present**
 
 Eptura is a global worktech company offering integrated solutions for workplace and asset management. In my role, I oversee a portfolio of enterprise clients across Australia and New Zealand, focusing on products such as Serraview, Condeco, Archibus, and Proxyclick. My responsibilities include:
 
