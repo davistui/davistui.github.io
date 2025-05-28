@@ -7,7 +7,7 @@ category: Resume
 
 ## Overview
 
-Here is a condensed <a href="https://drive.google.com/file/d/1BQJEl8sMXHgPUlKiyMTURTQ3Cy8zul3Y/view?usp=sharing" target="_blank" style="color: #4ACAA8;">PDF copy</a> for quick reference. Below you'll find a deeper dive into my sales experience.
+Here is a condensed <a href="[https://drive.google.com/file/d/1BQJEl8sMXHgPUlKiyMTURTQ3Cy8zul3Y/view?usp=sharing](https://drive.google.com/file/d/1jO8DDrTODviHz8QbPdV2xykrbXuFtUjf/view?usp=sharing)" target="_blank" style="color: #4ACAA8;">PDF copy</a> for quick reference. Below you'll find a deeper dive into my sales experience.
 
 ## Summary
 
