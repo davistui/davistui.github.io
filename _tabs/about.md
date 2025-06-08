@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 2
 ---
 
 <img src="/assets/img/linkedin.jpeg" alt="LinkedIn Profile" width="100" />

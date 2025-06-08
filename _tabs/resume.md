@@ -1,10 +1,10 @@
 ---
-title: "Resume"
+title: "CV"
 icon: fas fa-file-alt
-order: 1
+order: 6
 ---
 
-Here is a condensed [PDF copy](https://drive.google.com/file/d/1BQJEl8sMXHgPUlKiyMTURTQ3Cy8zul3Y/view?usp=sharing){:target="_blank"} for quick reference. Below you'll find a deeper dive into my sales experience.
+Here is a condensed [PDF copy](https://drive.google.com/file/d/1jO8DDrTODviHz8QbPdV2xykrbXuFtUjf/view?usp=drive_link){:target="_blank"} for quick reference. Below you'll find a deeper dive into my sales experience.
 
 ## Summary
 
