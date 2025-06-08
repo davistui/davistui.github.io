@@ -1,8 +1,8 @@
 ---
 title: How To Remember What You Read
 date: 2021-08-17
-categories: [Productivity]
-tags: [reading, learning, productivity, memory]
+categories: [Business]
+tags: [Productivity]
 ---
 
 ![Remember What You Read](/assets/img/remember.jpeg)

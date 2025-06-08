@@ -1,8 +1,8 @@
 ---
 title: Low Code 2023 And Beyond
 date: 2023-03-09
-categories: [Technology]
-tags: [low-code, development, productivity, technology]
+categories: [Business]
+tags: [low-code]
 ---
 
 ![Low Code](/assets/img/lowcode.avif)

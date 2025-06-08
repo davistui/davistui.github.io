@@ -1,8 +1,8 @@
 ---
 title: The Einstein Principle
 date: 2023-02-09
-categories: [Productivity]
-tags: [productivity, work-life balance, mental health, success]
+categories: [Business]
+tags: [Productivity]
 ---
 
 ![Albert Einstein](/assets/img/albert_einstein.png)

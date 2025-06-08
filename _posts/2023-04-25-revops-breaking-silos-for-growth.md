@@ -1,8 +1,8 @@
 ---
 title: RevOps - Breaking Down Silos for Growth
 date: 2023-04-25
-categories: [Sales & Marketing]
-tags: [revops, sales, marketing, business strategy]
+categories: [Business]
+tags: [Sales]
 ---
 
 ![RevOps](/assets/img/revops.png)

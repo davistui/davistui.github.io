@@ -1,8 +1,8 @@
 ---
 title: The Pandemic, What If This Happened In 2011?
 date: 2021-06-21
-categories: [Lifestyle Design]
-tags: [pandemic, technology, remote work, retrospective]
+categories: [Personal]
+tags: [Throwback]
 ---
 
 ![COVID-19](/assets/img/covid-19.PNG)

@@ -1,8 +1,8 @@
 ---
 title: Five Technical Skills New Sales People Need
 date: 2018-03-10
-categories: [Sales & Marketing]
-tags: [sales, technology, skills, career development]
+categories: [Business]
+tags: [Sales]
 ---
 
 ![Sales Skills](/assets/img/sales.JPG)

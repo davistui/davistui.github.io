@@ -1,8 +1,8 @@
 ---
 title: "Why the Hell Am I Still Playing First Grade Rugby in My Mid-30s?"
 date: 2025-05-08
-categories: [Sports]
-tags: [rugby, personal, community, aging]
+categories: [Personal]
+tags: [Rugby]
 ---
 
 ![Team Sheet](/assets/img/teamsheet.jpg)

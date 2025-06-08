@@ -1,8 +1,8 @@
 ---
 title: Why I Couldn't Follow My Dreams
 date: 2021-06-30
-categories: [Lifestyle Design]
-tags: [entrepreneurship, personal development, career, dreams]
+categories: [Personal]
+tags: [Entrepreneurship]
 ---
 
 ![Growth Graph](/assets/img/graphs.jpeg)

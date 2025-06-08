@@ -1,8 +1,8 @@
 ---
 title: How to Read More In 2021
 date: 2021-07-16
-categories: [Productivity]
-tags: [reading, productivity, habits, books]
+categories: [Business]
+tags: [Productivity]
 ---
 
 ![Books](/assets/img/books.avif)

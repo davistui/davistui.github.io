@@ -1,8 +1,8 @@
 ---
 title: My Time As A Rugby Player
 date: 2018-03-27
-categories: [Sports]
-tags: [rugby, personal experience, sports, bahrain]
+categories: [Personal]
+tags: [Rugby]
 ---
 
 ![Championship](/assets/img/rugby4.jpg)

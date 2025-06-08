@@ -1,8 +1,8 @@
 ---
 title: Reducing Risk When Looking At Startup Sales Roles
 date: 2021-07-09
-categories: [Sales & Marketing]
-tags: [startups, sales, career, risk management]
+categories: [Business]
+tags: [Sales, Startups]
 ---
 
 I came across this [great article](https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany/?trackingId=hminS2AWRUO1DdBXUxA8JA%3D%3D){:target="_blank"} from 2016 that looked at the Gartner Hype Cycle of Emerging Technologies. Of about 200 technologies that have emerged in the last 20 years, only 50 of them have stayed around. The startup I currently work for felt like it could've hit they wayside. Three years on, it's legitamately going from strength to strength.
