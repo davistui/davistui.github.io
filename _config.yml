@@ -222,6 +222,7 @@ exclude:
   - purgecss.js
   - rollup.config.js
   - "package*.json"
+  - _drafts
 
 jekyll-archives:
   enabled: [categories, tags]
