@@ -5,6 +5,8 @@ categories: []
 tags: []
 ---
 
-<!-- ![Alt text](/assets/img/YYYY-MM-DD-filename.jpg) -->
+![Alt text](/assets/img/YYYY-MM-DD-filename.jpg)
 
-[Your content here] 
+[Your content here]
+
+{% include email-signup.html %} 
