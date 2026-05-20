@@ -5,6 +5,8 @@ categories: [Sales]
 tags: [sales, meddic, qualification, forecasting]
 ---
 
+![The mistake most sellers make with MEDDIC](/assets/img/2026-05-20-the-mistake-most-sellers-make-with-meddic.jpg)
+
 Nothing is more painful than filling out MEDDIC in the CRM.
 
 Metrics - check. Economic Buyer - Google the name of the CIO. Champion - select the person with the highest lead score from marketing.
