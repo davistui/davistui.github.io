@@ -4,7 +4,7 @@ icon: fas fa-file-alt
 order: 6
 ---
 
-Here is a condensed [PDF copy](https://drive.google.com/file/d/18zMlCp6wWvflVHXLMbnwJwKi_MlGPwag/view?usp=sharing){:target="_blank"} for quick reference. Below you'll find a deeper dive into my sales experience.
+Here is a condensed [PDF copy](https://drive.google.com/file/d/1CAEZ4KIPy1058nZMxvsAGssY9K_Jgqu3/view?usp=sharing){:target="_blank"} for quick reference. Below you'll find a deeper dive into my sales experience.
 
 ## Summary
 
@@ -15,24 +15,24 @@ Enterprise Account Executive with 10+ years selling complex SaaS into government
 - **Enterprise SaaS Sales** - Complex deal cycles, multi-product portfolios, 6-18 month procurement
 - **Strategic Account Management** - Territory planning, expansion strategy, executive relationship development
 - **Sales Methodology** - MEDDIC, value-based selling, stakeholder mapping
-- **Verticals** - Government (state and federal), financial services, mining & resources, healthcare
+- **Verticals** - Government (state and federal), financial services, mining & resources, higher education
 
 ## Employment History
 
 ### [Eptura](https://eptura.com/) - Enterprise Account Executive ANZ
-**Melbourne, Australia | December 2023 - Present | 2 years**
+**Melbourne, Australia | December 2023 - February 2026 | 2 years 3 months**
 
 Eptura is a PE-backed (Thoma Bravo) workplace technology platform providing space management, visitor management, and asset solutions to enterprise customers globally.
 
-- Delivered five consecutive quarters of quota attainment (Q1 2024 - Q1 2025) during significant organisational change
-- Enterprise book includes federal agencies, ASX-listed banks, Go8 universities, and major mining operators
-- Lead complex renewal and expansion motions across multi-product environments, coordinating with technical, legal, and procurement stakeholders through 6-18 month cycles
-- Manage full account lifecycle across enterprise book - retention on accounts valued up to $1.4M, expansion pipeline at $380k+, and closed cross-sell/upsell deals into existing customers
+- Delivered five consecutive quarters of quota attainment (Q1 2024 - Q1 2025) during significant organisational change including CEO and CRO transitions
+- Enterprise book spanned government, financial services, education, and resources - including federal agencies, ASX-listed banks, Go8 universities, and major mining operators
+- Led complex renewal and expansion motions across multi-product environments, coordinating with technical, legal, and procurement stakeholders through 6-18 month cycles
+- Managed full account lifecycle across enterprise book - retention on accounts valued up to $1.4M, expansion pipeline at $380k+, and closed cross-sell/upsell deals into existing customers
 
 **Key Achievement:** APAC Top Performer 2024 - Achieved 103% of annual quota, ranked #1 in region and top 5 globally across 50+ enterprise sellers
 
 ### [Appsmith](https://appsmith.com/) - Sales Executive APAC
-**Melbourne, Australia | June 2023 - October 2023 | 5 months**
+**Melbourne, Australia | June 2023 - September 2023 | 4 months**
 
 Appsmith is an open-source low-code platform for building internal tools. Brought in as founding APAC sales hire to establish regional go-to-market.
 
@@ -47,7 +47,7 @@ Appsmith is an open-source low-code platform for building internal tools. Brough
 
 OutSystems is a high-performance low-code platform for enterprise application development. Joined as one of the first 15 hires in Australia during the company's unicorn growth phase.
 
-- Closed strategic accounts across mining (FMG, Monadelphous, MACA), Government (WA Health, ARTC), legal (Allens), energy (ATCO Gas), and retail (Vicinity Centres)
+- Closed strategic accounts across mining (FMG, Monadelphous, MACA), Government (WA Health, Vic Police, ARTC), financial services (IOOF), legal (Allens), energy (ATCO Gas), manufacturing (Amcor), and retail (Vicinity Centres)
 - Executed full sales cycle from discovery through close, coordinating solution consultants, POC and business value teams to validate technical fit and build business cases
 - Built pipeline through partner co-selling, outbound prospecting, and marketing-generated demand
 
