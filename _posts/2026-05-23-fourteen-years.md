@@ -5,6 +5,8 @@ categories: [Personal]
 tags: [personal, reflection, melbourne, resilience]
 ---
 
+![Fourteen years in Melbourne](/assets/img/fourteenyears.jpg)
+
 Fourteen years ago I left New Zealand.
 
 Two suitcases, a spot on Pete and Zoe's couch and savings (9.5 days of cashed out annual leave) were all I had. Melbourne. I'd never been here before but I thought I'd give it a go. My first year was a blur. Some of it was hard. Some of it was harder.
