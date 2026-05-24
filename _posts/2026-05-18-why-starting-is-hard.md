@@ -6,7 +6,7 @@ tags: [productivity]
 date: 2026-05-18
 ---
 
-![Start line](/assets/img/IMG_2347.JPG)
+![Start line](/assets/img/2026-05-18-why-starting-is-hard.jpg)
 
 I've stood at the start line over a hundred times.
 

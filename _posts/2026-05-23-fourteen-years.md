@@ -5,7 +5,7 @@ categories: [Personal]
 tags: [personal, reflection, melbourne, resilience]
 ---
 
-![Fourteen years in Melbourne](/assets/img/fourteenyears.jpg)
+![Fourteen years in Melbourne](/assets/img/2026-05-23-fourteen-years.jpg)
 
 Fourteen years ago I left New Zealand.
 

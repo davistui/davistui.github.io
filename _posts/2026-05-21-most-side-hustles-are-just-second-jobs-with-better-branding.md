@@ -5,7 +5,7 @@ categories: [Personal]
 tags: [side-hustle, work, freedom, photography]
 ---
 
-![Most side hustles are just second jobs with better branding](/assets/img/sidehustle.jpg)
+![Most side hustles are just second jobs with better branding](/assets/img/2026-05-21-most-side-hustles-are-just-second-jobs-with-better-branding.jpg)
 
 I love photography and I turned it into a side hustle. I got a chance to shoot for a sports apparel brand and to be honest. It just felt like a job.
 
