@@ -1,7 +1,7 @@
 ---
 title: "AI Is the New Electricity — But Not Everyone’s Wired In"
 date: 2025-06-08
-categories: [Community]
+categories: [Personal]
 tags: [AI]
 ---
 
