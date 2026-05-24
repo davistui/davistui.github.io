@@ -19,4 +19,4 @@ The second that door shuts, Chappelle and his friend immediately look at each ot
 
 In sales, you're always working towards a great joke. Just don't punch up the f*ck line.
 
-[Watch the bit](https://youtu.be/s0M6y5sCUVM?si=a6-yF50fzDbUUtm-){:target="_blank"}
+{% include embed/youtube.html id='s0M6y5sCUVM' %}
