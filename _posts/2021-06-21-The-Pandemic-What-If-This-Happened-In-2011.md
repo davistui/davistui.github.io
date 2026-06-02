@@ -2,7 +2,7 @@
 title: The Pandemic, What If This Happened In 2011?
 date: 2021-06-21
 categories: [Personal]
-tags: [Throwback]
+tags: [throwback]
 ---
 
 ![COVID-19](/assets/img/covid-19.PNG)

@@ -2,7 +2,7 @@
 title: Why I Couldn't Follow My Dreams
 date: 2021-06-30
 categories: [Personal]
-tags: [Entrepreneurship]
+tags: [entrepreneurship]
 ---
 
 ![Growth Graph](/assets/img/graphs.jpeg)
