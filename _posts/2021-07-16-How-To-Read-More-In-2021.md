@@ -2,7 +2,7 @@
 title: How to Read More In 2021
 date: 2021-07-16
 categories: [Business]
-tags: [Productivity]
+tags: [productivity]
 ---
 
 ![Books](/assets/img/books.avif)

@@ -2,7 +2,7 @@
 title: Writing Better Emails
 date: 2021-07-06
 categories: [Business]
-tags: [Productivity]
+tags: [productivity]
 ---
 
 ![Email](/assets/img/email.jpeg)

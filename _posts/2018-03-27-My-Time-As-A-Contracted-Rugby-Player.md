@@ -2,7 +2,7 @@
 title: My Time As A Rugby Player
 date: 2018-03-27
 categories: [Personal]
-tags: [Rugby]
+tags: [rugby]
 ---
 
 ![Championship](/assets/img/rugby4.jpg)

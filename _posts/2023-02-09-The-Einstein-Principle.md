@@ -2,7 +2,7 @@
 title: The Einstein Principle
 date: 2023-02-09
 categories: [Business]
-tags: [Productivity]
+tags: [productivity]
 ---
 
 ![Albert Einstein](/assets/img/albert_einstein.png)
