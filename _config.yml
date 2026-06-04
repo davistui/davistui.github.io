@@ -48,6 +48,14 @@ social:
 # Disable RSS feed
 rss: false
 
+# Email subscribe / follow form (rendered at the bottom of each post)
+subscribe:
+  enabled: true
+  heading: "Follow what I'm doing"
+  blurb: "New essays on tech, sales, and the long game — straight to your inbox. No spam, unsubscribe anytime."
+  button: "Subscribe"
+  endpoint: "https://buttondown.com/api/emails/embed-subscribe/davistui"   # leave blank for demo mode; add your provider's form action to go live
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code

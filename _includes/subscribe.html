@@ -1,0 +1,186 @@
+{% comment %}
+  Email subscribe / follow form.
+
+  Configure in _config.yml:
+    subscribe:
+      enabled: true
+      heading: "Follow what I'm doing"
+      blurb: "New essays on tech, sales, and the long game — straight to your inbox. No spam."
+      button: "Subscribe"
+      endpoint: ""   # e.g. Buttondown: https://buttondown.com/api/emails/embed-subscribe/USERNAME
+                     # leave blank to run in demo mode (shows a success state without sending)
+
+  Demo mode (blank endpoint) is safe for previewing the look & feel locally.
+{% endcomment %}
+
+{% assign sub = site.subscribe %}
+{% if sub.enabled %}
+<aside class="subscribe-card" aria-labelledby="subscribe-heading">
+  <h3 id="subscribe-heading" class="subscribe-title">
+    {{ sub.heading | default: "Follow what I'm doing" }}
+  </h3>
+  <p class="subscribe-blurb">
+    {{ sub.blurb | default: "New essays straight to your inbox. No spam, unsubscribe anytime." }}
+  </p>
+
+  <form
+    class="subscribe-form"
+    {% if sub.endpoint and sub.endpoint != "" %}action="{{ sub.endpoint }}" method="post"{% endif %}
+    novalidate
+  >
+    <input
+      type="text"
+      name="metadata__first_name"
+      class="subscribe-input subscribe-name"
+      placeholder="First name"
+      aria-label="First name"
+      autocomplete="given-name"
+      required
+    />
+    <input
+      type="email"
+      name="email"
+      class="subscribe-input subscribe-email"
+      placeholder="you@email.com"
+      aria-label="Email address"
+      autocomplete="email"
+      required
+    />
+    <button type="submit" class="subscribe-btn">
+      {{ sub.button | default: "Subscribe" }}
+    </button>
+  </form>
+
+  <p class="subscribe-msg" role="status" aria-live="polite" hidden></p>
+</aside>
+
+<style>
+  .subscribe-card {
+    margin: 2.5rem 0 1rem;
+    padding: 1.5rem 1.5rem 1.25rem;
+    border: 1px solid var(--main-border-color, #e5e7eb);
+    border-radius: 12px;
+    background: var(--card-bg, var(--main-bg, #fff));
+  }
+  .subscribe-title {
+    margin: 0 0 0.4rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+  }
+  .subscribe-blurb {
+    margin: 0 0 1rem;
+    font-size: 0.95rem;
+    color: var(--text-muted-color, #6b7280);
+  }
+  .subscribe-form {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .subscribe-input {
+    flex: 1 1 220px;
+    min-width: 0;
+    padding: 0.6rem 0.8rem;
+    font-size: 0.95rem;
+    border: 1px solid var(--main-border-color, #d1d5db);
+    border-radius: 8px;
+    background: var(--main-bg, #fff);
+    color: var(--text-color, inherit);
+  }
+  .subscribe-name {
+    flex: 1 1 100%;
+  }
+  .subscribe-input:focus {
+    outline: none;
+    border-color: var(--link-color, #2a408e);
+    box-shadow: 0 0 0 3px rgba(42, 64, 142, 0.15);
+  }
+  .subscribe-btn {
+    flex: 0 0 auto;
+    padding: 0.6rem 1.25rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #fff;
+    background: var(--link-color, #2a408e);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: opacity 0.15s ease;
+  }
+  .subscribe-btn:hover { opacity: 0.88; }
+  .subscribe-btn:disabled { opacity: 0.6; cursor: default; }
+  .subscribe-msg {
+    margin: 0.85rem 0 0;
+    font-size: 0.9rem;
+  }
+  .subscribe-msg.is-ok { color: #16a34a; }
+  .subscribe-msg.is-err { color: #dc2626; }
+</style>
+
+<script>
+  (function () {
+    var form = document.currentScript.previousElementSibling;
+    while (form && !form.classList.contains('subscribe-card')) {
+      form = form.previousElementSibling;
+    }
+    if (!form) return;
+    var card = form;
+    var formEl = card.querySelector('.subscribe-form');
+    var nameInput = card.querySelector('.subscribe-name');
+    var input = card.querySelector('.subscribe-email');
+    var btn = card.querySelector('.subscribe-btn');
+    var msg = card.querySelector('.subscribe-msg');
+    var hasEndpoint = formEl.hasAttribute('action');
+
+    function show(text, ok) {
+      msg.textContent = text;
+      msg.classList.remove('is-ok', 'is-err');
+      msg.classList.add(ok ? 'is-ok' : 'is-err');
+      msg.hidden = false;
+    }
+
+    formEl.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var firstName = (nameInput.value || '').trim();
+      var email = (input.value || '').trim();
+      if (!firstName) {
+        show('Please enter your first name.', false);
+        nameInput.focus();
+        return;
+      }
+      if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
+        show('Please enter a valid email address.', false);
+        input.focus();
+        return;
+      }
+
+      btn.disabled = true;
+
+      if (!hasEndpoint) {
+        // Demo mode — no provider connected yet.
+        setTimeout(function () {
+          show("You're on the list (demo). Wire up a provider to go live.", true);
+          formEl.reset();
+          btn.disabled = false;
+        }, 400);
+        return;
+      }
+
+      var data = new FormData();
+      data.append('email', email);
+      data.append('metadata__first_name', firstName);
+      fetch(formEl.action, { method: 'POST', body: data, mode: 'no-cors' })
+        .then(function () {
+          show('Thanks — check your inbox to confirm.', true);
+          formEl.reset();
+        })
+        .catch(function () {
+          show('Something went wrong. Please try again.', false);
+        })
+        .finally(function () {
+          btn.disabled = false;
+        });
+    });
+  })();
+</script>
+{% endif %}
