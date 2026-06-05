@@ -48,7 +48,7 @@ Beyond enterprise sales execution, I leverage my technical and strategic backgro
 <summary>Footscray Rugby Union Club</summary>
 <div class="acc-body" markdown="1">
 
-*Role: Board Member & GTM Lead*
+*Role: Board Member*
 
 I focus on growing our rugby club's community footprint, driving local corporate sponsorships, and scaling our digital content strategy.
 
