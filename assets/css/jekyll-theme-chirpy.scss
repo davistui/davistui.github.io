@@ -26,8 +26,29 @@
   order: -1;
 }
 
+/* Give the pinned Contents an opaque layer so Recently Updated / Trending Tags
+   slide cleanly *underneath* it as they scroll, instead of bleeding through. */
+#panel-wrapper:has(#toc-wrapper) #toc-wrapper {
+  z-index: 1;
+  background: var(--main-bg);
+  padding-bottom: 1rem;
+}
+
 #panel-wrapper:has(#toc-wrapper) .access {
   order: 0;
+  z-index: 0;
   position: static; /* let the site-wide panels scroll away instead of sticking */
   margin-top: 2rem;
+}
+
+/* --------------------------------------------------------------------------
+   Responsive post tables: Chirpy's %table-cell forces `white-space: nowrap`,
+   so wide tables overflow and show a horizontal scrollbar. Let cells wrap so
+   the table fits its column. overflow-x: auto stays as a fallback for the rare
+   table that still can't fit.
+   -------------------------------------------------------------------------- */
+.content .table-wrapper > table th,
+.content .table-wrapper > table td {
+  white-space: normal; /* override Chirpy's nowrap so cells wrap at spaces */
+  overflow-wrap: break-word; /* only break a word if it genuinely can't fit */
 }

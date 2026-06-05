@@ -8,8 +8,6 @@ permalink: /ship30for30/
 
 {% include lang.html %}
 
-I believe in building out loud and sharpening my ideas through consistency. This is my daily writing sprint — 30 essays over 30 days, covering sales insights, tech workflows, and personal perspectives.
-
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 
@@ -20,13 +18,13 @@ I believe in building out loud and sharpening my ideas through consistency. This
 
     {% if cur_year != last_year %}
       {% unless forloop.first %}</ul>{% endunless %}
-
+    
       <time class="year lead d-block">{{ cur_year }}</time>
       {{ '<ul class="list-unstyled">' }}
-
+    
       {% assign last_year = cur_year %}
     {% endif %}
-
+    
     <li>
       {% assign ts = post.date | date: '%s' %}
       <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
@@ -35,7 +33,7 @@ I believe in building out loud and sharpening my ideas through consistency. This
       </span>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
-
+    
     {% if forloop.last %}</ul>{% endif %}
   {% endfor %}
 </div>

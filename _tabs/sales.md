@@ -8,10 +8,6 @@ permalink: /sales/
 
 {% include lang.html %}
 
-This is where I show my work. Rather than talk about enterprise sales in the abstract, I build deep-dive, data-driven blueprints — mapping target accounts against live financial results and putting qualification frameworks to work on real deals.
-
-**Featured asset:** my interactive execution blueprint — the [ANZ Bank Account Plan & Value-Chain Analysis](/posts/anz-account-plan/).
-
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 
@@ -22,13 +18,13 @@ This is where I show my work. Rather than talk about enterprise sales in the abs
 
     {% if cur_year != last_year %}
       {% unless forloop.first %}</ul>{% endunless %}
-
+    
       <time class="year lead d-block">{{ cur_year }}</time>
       {{ '<ul class="list-unstyled">' }}
-
+    
       {% assign last_year = cur_year %}
     {% endif %}
-
+    
     <li>
       {% assign ts = post.date | date: '%s' %}
       <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
@@ -37,7 +33,7 @@ This is where I show my work. Rather than talk about enterprise sales in the abs
       </span>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
-
+    
     {% if forloop.last %}</ul>{% endif %}
   {% endfor %}
 </div>

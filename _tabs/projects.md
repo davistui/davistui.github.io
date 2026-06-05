@@ -44,9 +44,8 @@ order: 4
 Beyond enterprise sales execution, I leverage my technical and strategic background to build, advise, and consult across a few different spaces. Here is what I am actively working on right now:
 
 <div class="project-accordion">
-
 <details>
-<summary>🏉 Footscray Rugby Union Club</summary>
+<summary>Footscray Rugby Union Club</summary>
 <div class="acc-body" markdown="1">
 
 *Role: Board Member & GTM Lead*
@@ -60,8 +59,9 @@ I focus on growing our rugby club's community footprint, driving local corporate
 </details>
 
 <details>
-<summary>🤖 AI CPQ for Startups</summary>
+<summary>AI CPQ for Startups</summary>
 <div class="acc-body" markdown="1">
+
 
 *Status: In Development (Coming Soon)*
 
@@ -71,8 +71,9 @@ Building a lightweight, intelligent Configure, Price, Quote (CPQ) tool tailored 
 </details>
 
 <details>
-<summary>📚 NCEA Study Guide Bot</summary>
+<summary>NCEA Study Guide Bot</summary>
 <div class="acc-body" markdown="1">
+
 
 *Status: In Development (Coming Soon)*
 
@@ -82,8 +83,9 @@ An AI-powered study companion designed to help secondary students navigate the N
 </details>
 
 <details>
-<summary>🎓 Sales Enablement Course</summary>
+<summary>Sales Enablement Course</summary>
 <div class="acc-body" markdown="1">
+
 
 *Status: Coming Soon*
 
@@ -94,6 +96,3 @@ Synthesizing a decade of enterprise technical sales execution into a pragmatic, 
 
 </div>
 
----
-
-👉 *Want to jump back to my background and core enterprise frameworks? Head back to the central [About Page](/about/).*
