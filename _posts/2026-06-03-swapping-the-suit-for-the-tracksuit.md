@@ -1,7 +1,7 @@
 ---
 title: "Swapping The Suit for The Tracksuit"
 date: 2026-06-03
-categories: [Personal]
+categories: [Ship30for30, Personal]
 tags: [rugby, career, the-long-game]
 ---
 

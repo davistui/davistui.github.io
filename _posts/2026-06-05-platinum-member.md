@@ -1,7 +1,7 @@
 ---
 title: "Platinum Member"
 date: 2026-06-05
-categories: [Personal]
+categories: [Ship30for30, Personal]
 tags: [travel, the-long-game]
 ---
 

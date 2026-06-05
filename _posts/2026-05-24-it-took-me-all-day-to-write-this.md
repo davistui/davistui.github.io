@@ -1,7 +1,7 @@
 ---
 title: "It Took Me All Day To Write This"
 date: 2026-05-24
-categories: [Personal]
+categories: [Ship30for30, Personal]
 tags: [writing, habits, resilience, personal]
 ---
 

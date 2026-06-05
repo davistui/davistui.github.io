@@ -1,7 +1,7 @@
 ---
 title: "Every Sales Deck Is a Joke"
 date: 2026-05-24
-categories: [Sales]
+categories: [Ship30for30, Sales]
 tags: [sales, sales-decks, storytelling, comedy]
 ---
 

@@ -1,0 +1,7 @@
+# Local override that deep-merges into the Chirpy theme's en.yml.
+# Adds <title> values for custom tabs (head.html looks up tabs[title|downcase]
+# and has no fallback to page.title, so unlisted tabs render an empty <title>).
+tabs:
+  sales: Sales
+  ship 30 for 30: Ship 30 for 30
+  projects: Projects

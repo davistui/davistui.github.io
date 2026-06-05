@@ -1,7 +1,7 @@
 ---
 title: "The Hard Question Doesn't Kill The Deal. It Moves It."
 date: 2026-05-27
-categories: [Sales]
+categories: [Ship30for30, Sales]
 tags: [sales, negotiation, deals]
 ---
 

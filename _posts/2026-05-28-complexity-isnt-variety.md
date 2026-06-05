@@ -1,7 +1,7 @@
 ---
 title: "Complexity Isn't Variety"
 date: 2026-05-28
-categories: [Personal]
+categories: [Ship30for30, Personal]
 tags: [rugby, coaching, leadership, simplicity]
 ---
 

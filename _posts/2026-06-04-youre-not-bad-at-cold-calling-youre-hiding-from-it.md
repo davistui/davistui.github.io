@@ -1,7 +1,7 @@
 ---
 title: "You're Not Bad At Cold Calling. You're Hiding From It."
 date: 2026-06-04
-categories: [Sales]
+categories: [Ship30for30, Sales]
 tags: [cold calling, prospecting]
 ---
 

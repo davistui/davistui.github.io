@@ -1,7 +1,7 @@
 ---
 title: "Fourteen Years"
 date: 2026-05-23
-categories: [Personal]
+categories: [Ship30for30, Personal]
 tags: [personal, reflection, melbourne, resilience]
 ---
 

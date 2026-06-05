@@ -1,7 +1,7 @@
 ---
 title: "The Mistake Most Sellers Make With MEDDIC"
 date: 2026-05-20
-categories: [Sales]
+categories: [Ship30for30, Sales]
 tags: [sales, meddic, qualification, forecasting]
 ---
 

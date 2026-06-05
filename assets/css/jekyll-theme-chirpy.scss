@@ -1,0 +1,33 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* --------------------------------------------------------------------------
+   Right-rail order on posts with a table of contents:
+   pin "Contents" above Recently Updated / Trending Tags and make it the sole
+   sticky element. Scoped with :has(#toc-wrapper) so posts without a TOC and
+   all non-post pages keep Chirpy's stock (sticky .access) behaviour.
+   -------------------------------------------------------------------------- */
+#panel-wrapper:has(#toc-wrapper) {
+  display: flex;
+  flex-direction: column;
+}
+
+#panel-wrapper:has(#toc-wrapper) #toc-wrapper,
+#panel-wrapper:has(#toc-wrapper) .toc-border-cover {
+  order: -1;
+}
+
+#panel-wrapper:has(#toc-wrapper) .access {
+  order: 0;
+  position: static; /* let the site-wide panels scroll away instead of sticking */
+  margin-top: 2rem;
+}

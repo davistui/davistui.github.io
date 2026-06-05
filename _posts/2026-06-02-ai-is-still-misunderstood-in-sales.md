@@ -1,7 +1,7 @@
 ---
 title: "AI Is Still Misunderstood In Sales"
 date: 2026-06-02
-categories: [Industry]
+categories: [Ship30for30, Industry]
 tags: [AI, sales]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Starting Is Hard: The Feedback Loop vs The Start Line"
-category: Personal
+categories: [Ship30for30, Personal]
 tags: [productivity]
 date: 2026-05-18
 ---

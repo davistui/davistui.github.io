@@ -1,7 +1,7 @@
 ---
 title: "There's Still Time In This Year"
 date: 2026-05-31
-categories: [Personal]
+categories: [Ship30for30, Personal]
 tags: [personal, reflection, the-long-game]
 ---
 

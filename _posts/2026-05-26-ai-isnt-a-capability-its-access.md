@@ -1,7 +1,7 @@
 ---
 title: "AI Isn't a Capability, It's Access"
 date: 2026-05-26
-categories: [Personal]
+categories: [Ship30for30, Personal]
 tags: [AI]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "A Record Isn't A Time. It's Who You Became."
 date: 2026-05-29
-categories: [Business]
+categories: [Ship30for30, Business]
 tags: [ship30for30, the-long-game]
 ---
 

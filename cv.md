@@ -1,7 +1,7 @@
 ---
-title: "CV"
-icon: fas fa-file-alt
-order: 6
+layout: page
+title: CV
+permalink: /cv/
 ---
 
 Here is a condensed [PDF copy](https://drive.google.com/file/d/1CAEZ4KIPy1058nZMxvsAGssY9K_Jgqu3/view?usp=sharing){:target="_blank"} for quick reference. Below you'll find a deeper dive into my sales experience.

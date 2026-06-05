@@ -1,7 +1,7 @@
 ---
 title: "Most Side Hustles Are Just Second Jobs With Better Branding"
 date: 2026-05-21
-categories: [Personal]
+categories: [Ship30for30, Personal]
 tags: [side-hustle, work, freedom, photography]
 ---
 

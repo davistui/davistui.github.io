@@ -1,7 +1,7 @@
 ---
 title: "The Deal You Have vs The Deal You Want"
 date: 2026-05-25
-categories: [Sales]
+categories: [Ship30for30, Sales]
 tags: [sales, qualification, forecasting, deals]
 ---
 
