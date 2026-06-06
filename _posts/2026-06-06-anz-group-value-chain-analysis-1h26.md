@@ -123,4 +123,7 @@ As a **working artifact**, Section 6 has places to find opportunities and sectio
 ---
 
 ### Sources
-ANZ Group Holdings **1H26 results pack** (1 May 2026): Media Release, Results Presentation & Investor Discussion Pack, Results Announcement, earnings-call transcript (Matos/Faruqui + analyst Q&A). Industry framework: *Retail Banking Industry Value Chain: Deep Dive* (Flevy, 2024). NPS/MFI: RFI Global, Roy Morgan, Insights HQ/Kantar as cited by ANZ. Cross-referenced to `ANZ - Value Map (1H26).md`.
+* ANZ Group Holdings **1H26 results pack** (1 May 2026): Media Release, Results Presentation & Investor Discussion Pack, Results Announcement, earnings-call transcript (Matos/Faruqui + analyst Q&A). 
+* Industry framework: *Retail Banking Industry Value Chain: Deep Dive* (Flevy, 2024). 
+* NPS/MFI: RFI Global, Roy Morgan, Insights HQ/Kantar as cited by ANZ. 
+* Cross-referenced to [ANZ Value Map](/posts/anz-account-plan/)

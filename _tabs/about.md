@@ -9,18 +9,17 @@ I'm a New Zealand-born Samoan living in Melbourne, with a decade of experience i
 
 Outside of tech, I offer advisory and GTM consulting to BIPOC-led startups and scale-ups, and I serve on the board of Footscray Rugby Union Club. My values come back to one idea: raising the tide so all our ships rise.
 
-Over the years I've built a body of work spanning enterprise strategy, sales enablement, content creation, and cultural advocacy. I write, shoot, build, and sometimes just think out loud. You'll find those thoughts peppered across this site.
-
 ---
 
 ## My Approach to Enterprise Sales
 
-My sales philosophy is built on customer advocacy, daily execution of activities and deep alignment to the people, process and technology. Over 10 years in SaaS and enterprise sales, I've learned that deals are won by qualifying well, driving execution and value alignment.
+My sales philosophy is built on customer advocacy, daily execution of activities and deep alignment to the people, process and technology.
 
-### Execution Playbook
+### Execution Playbook:
 
-* Value Map: How I translate executive strategy into funded initiatives to create a distinct buying vision and a highly targeted prospecting plan ([active case study with ANZ Bank)](/posts/anz-account-plan/).
-* MEDDIC framework: My approach to qualifying deals an opportunities to ensure resource efficiency and a programatic approach to finding a pathway into a transaction (read on my approach)
+* **Value Map:** My approach to account planning to understanding the why of a business ([check out my ANZ value map)](/posts/anz-account-plan/).
+* **Value Chain:** My approach to mapping prospect acitivites and where I can mine opportunities ([check out my ANZ value chain](/posts/anz-group-value-chain-analysis-1h26/)
+* **MEDDIC framework:** My approach to qualifying enterprise deals and safeguarding internal resource focus to ensure high-velocity cycles [(read how I do this)](/posts/how-i-use-meddpic/).
 * Mutual Action Plans: How I turn complex procurement and evaluation cycles into transparent, collaborative projects built alongside my champions (read more)
 
 ---
