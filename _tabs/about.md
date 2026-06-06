@@ -11,33 +11,30 @@ Outside of tech, I offer advisory and GTM consulting to BIPOC-led startups and s
 
 ---
 
-## My Approach to Enterprise Sales
+### My Approach to Enterprise Sales
 
-My sales philosophy is built on customer advocacy, daily execution of activities and deep alignment to the people, process and technology.
+My sales philosophy is built on customer advocacy, the daily execution of activities, and deep alignment across people, process, and technology.
 
-### Execution Playbook:
+#### Execution Playbook:
 
-* **Value Map:** My approach to account planning to understanding the why of a business ([check out my ANZ value map)](/posts/anz-account-plan/).
-* **Value Chain:** My approach to mapping prospect acitivites and where I can mine opportunities ([check out my ANZ value chain](/posts/anz-group-value-chain-analysis-1h26/)
-* **MEDDIC framework:** My approach to qualifying enterprise deals and safeguarding internal resource focus to ensure high-velocity cycles [(read how I do this)](/posts/how-i-use-meddpic/).
-* Mutual Action Plans: How I turn complex procurement and evaluation cycles into transparent, collaborative projects built alongside my champions (read more)
+* **Value Map:** My approach to account planning to understand the *why* of a business ([check out my ANZ value map](/posts/anz-account-plan/)).
+* **Value Chain:** My approach to mapping prospect activities to uncover friction and mine hidden opportunities ([check out my ANZ value chain](/posts/anz-group-value-chain-analysis-1h26/))
+* **MEDDPIC Framework:** My approach to qualifying enterprise deals and safeguarding internal resource focus to ensure high-velocity cycles [(read my approach)](/posts/how-i-use-meddpic/).
+* **Mutual Action Plans:** My framework for executing on sales cycles to eliminate procurement ambiguity and accelerate time-to-value ([read my approach](/posts/mutual-action-plans-from-idea-to-execution/)).
 
 ---
 
 ## Professional Experience (CV Summary)
 
-*10+ Years of Enterprise SaaS & Technical Sales Execution*
+*10+ Years of Enterprise SaaS & Technical Sales Execution*.  **[Read my full CV](/cv/)**.
 
 *   **Complex Deal Navigation:** proven track record of running 6–18 month multi-stakeholder enterprise cycles across FSI, Government, and Resources
 *   **Go-To-Market Alignment:** Experienced regional builder, 2024 ranked as the #1 APAC Top Performer at Eptura and served as an early GTM builder driving market presence from near-zero ARR during OutSystems’ unicorn growth phase
 *   **Strategic Value Alignment:** Expert at translating complex, high-performance technical platforms into clear business outcomes for C-suite, IT, and operational leadership.
 *   **Cross-Functional Leadership:** Collaborated closely with Solutions Engineers, Product teams, and Customer Success to ensure technical validation and realization of customer value.
 
- **[Read my full CV](/cv/)**
-
 ---
 
 ## Current Projects
 
-I keep a running list of my active advisory work, tech builds, and community initiatives on my dedicated projects page:
-**[View My Current Projects](/projects/)**
+I keep a running list of my active work, tech builds. **[View My Current Projects](/projects/)**.
