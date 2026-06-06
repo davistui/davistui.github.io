@@ -9,7 +9,7 @@ tags: [sales, enterprise, account-planning, value-chain]
 
 Beneath the value map is our value chain. A value chain represents a set of activities organisations engage in to serve their customers. In the context of ANZ, we're already aware of the customer shift towards digital banking and self service which is causing banks to rethink their value proposition. 
 
-As the value chain creates and captures value end-to-end - it gives us guidelines to understand where margin is gained and where it leaks. As I work in tech sales, I run it tech-delivery-first and then cascade upward: from the engineering stack that ships change, through the activities that serve customers, into the strategy pillars and the board-level numbers the the C-suite is judged on. We work bottom-up because the opportunities usually live *lower* in the chain. This is where I can work to earns my conversations into the executive layer.
+As the value chain creates and captures value end-to-end - it gives us guidelines to understand where margin is gained and where it leaks. As I work in tech sales, I run it tech-delivery-first and then cascade upward: from the engineering stack that ships change, through the activities that serve customers, into the strategy pillars and the board-level numbers the C-suite is judged on. We work bottom-up because the opportunities usually live *lower* in the chain. This is where I can work to earn my conversations into the executive layer.
 
 ---
 
@@ -37,9 +37,9 @@ S1–S7 Support activities                    L9 Software delivery & change capa
 
 ## 2. The cascade - delivery ladders up into the C-suite and Board
 
-The mechanism that makes this a selling tool: trace any delivery layer up to a number that is is measured.
+The mechanism that makes this a selling tool: trace any delivery layer up to a number that is measured.
 
-Read each row **bottom to top** - a constraint at the delivery layer flows up an activity, into a strategy pillar, into a corporate objective. If you can move the bottom, you move the top, this created a compelling reason for executives to meet. Below are a set of theories to test and validate with the customer.
+Read each row **bottom to top** - a constraint at the delivery layer flows up an activity, into a strategy pillar, into a corporate objective. If you can move the bottom, you move the top; this creates a compelling reason for executives to meet. Below are a set of theories to test and validate with the customer.
 
 | Delivery layer (the lever) | Activity it gates | Strategy pillar | Corporate objective it moves | The number |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ Read each row **bottom to top** - a constraint at the delivery layer flows up an
 
 ## 3. Primary activities
 
-The customer-facing chain, graded, with the tech layer and funded initiative behind each link. I've used the FY26H1 details to get insights build a working hypothesis. 
+The customer-facing chain, graded, with the tech layer and funded initiative behind each link. I've used the FY26H1 details to get insights and build a working hypothesis. 
 
 | # | Activity | 1H26 evidence | Read | Layers | Initiative |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@ The actionable output: where a seller enters, hottest first, each tied to a valu
 
 ## 7. How I use this information
 
-As a **working artifact**, Section 6 has places to find opportunities and section 2 gives us the language to talk to. The key activity to execute on is taking an executive *up* the cascade from a problem they own to a number they're measured on. As its core - this allos us to read the business model which your opportunity fits in.
+As a **working artifact**, Section 6 has places to find opportunities and section 2 gives us the language to talk to. The key activity to execute on is taking an executive *up* the cascade from a problem they own to a number they're measured on. At its core - this allows us to read the business model which your opportunity fits in.
 
 ---
 
