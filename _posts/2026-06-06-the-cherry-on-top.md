@@ -1,7 +1,7 @@
 ---
 title: "The Cherry On Top"
 date: 2026-06-06 19:00:00 +1000
-categories: [Personal]
+categories: [Ship30for30, Personal]
 tags: [personal, football, fandom, resilience]
 ---
 
