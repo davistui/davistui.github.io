@@ -1,6 +1,6 @@
 ---
 title: "Rituals from the Old School"
-date: 2026-06-07 19:00:00 +1000
+date: 2026-06-07 09:00:00 +1000
 categories: [Ship30for30, Personal]
 tags: [rugby, leadership, values, the-long-game]
 ---
