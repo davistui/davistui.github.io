@@ -25,4 +25,4 @@ You're not teaching a player what the jersey means. You're building the space wh
 
 You don't own the jersey. You leave it better than you found it.
 
-https://www.youtube.com/watch?v=Ypv2DPLVOak
+{% include embed/youtube.html id='Ypv2DPLVOak' %}
