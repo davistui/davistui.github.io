@@ -1,7 +1,7 @@
 ---
 title: "Some Things Only Close in the Open"
 date: 2026-06-08
-categories: [Personal]
+categories: [Ship30for30, Personal]
 tags: [golf, the-long-game, resilience]
 ---
 

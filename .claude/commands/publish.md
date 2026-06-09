@@ -19,7 +19,7 @@ Follow these steps:
    ---
    title: "<Title>"
    date: <YYYY-MM-DD>
-   categories: [<Sales | Personal | ...>]
+   categories: [Ship30for30, <Sales | Personal | ...>]
    tags: [<lowercase tags>]
    ---
 
@@ -27,7 +27,8 @@ Follow these steps:
 
    <draft body, with the image embedded at the top>
    ```
-   - Pick `categories`/`tags` that fit the content, matching the casing/style of recent posts (tags are lowercase; keep acronyms like AI, SKO uppercase).
+   - **Always** list `Ship30for30` as the first category (exact casing), then add one topical category that fits the content (`Sales`, `Personal`, `Business`, `Industry`, ...).
+   - Pick `tags` that fit the content, matching the casing/style of recent posts (tags are lowercase; keep acronyms like AI, SKO uppercase).
 
 6. **Remove the draft** file from `_drafts/`.
 
