@@ -52,3 +52,18 @@
   white-space: normal; /* override Chirpy's nowrap so cells wrap at spaces */
   overflow-wrap: break-word; /* only break a word if it genuinely can't fit */
 }
+
+/* --------------------------------------------------------------------------
+   Post images: cap width so they don't dominate the content column on desktop.
+   Mobile keeps full-width (no constraint needed there).
+   -------------------------------------------------------------------------- */
+@media (min-width: 768px) {
+  .content img {
+    max-height: 400px;
+    width: auto;
+    max-width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
