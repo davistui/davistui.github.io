@@ -10,6 +10,8 @@ Follow these steps:
 
 2. **Find the latest image** added to `assets/img/` — the most recently modified file (e.g. an `IMG_*.jpg` you just dropped in). This is the post image.
 
+2a. **Check the image aspect ratio** using `sips -g pixelWidth -g pixelHeight <path>`. Calculate width ÷ height. 16:9 = ~1.778. If the ratio is outside the range 1.6–1.9, **stop and warn the user**: show the actual dimensions and ratio, tell them the preferred ratio is 16:9, and ask whether to proceed anyway or swap in a different image. Only continue once they confirm.
+
 3. **Derive the slug** from the draft title: lowercase, strip apostrophes/punctuation, spaces → hyphens (e.g. "You're Not Bad At Cold Calling" → `youre-not-bad-at-cold-calling`). Use today's date as `YYYY-MM-DD`.
 
 4. **Rename the image** to `assets/img/<date>-<slug>.<ext>` (keep the original extension). Use `git mv` if the source is tracked, otherwise `mv`.
@@ -36,4 +38,4 @@ Follow these steps:
 
 8. **Return the live URL**: `https://davistui.com/posts/<slug>/` (Chirpy default permalink). Note it may take a minute or two for GitHub Pages to rebuild.
 
-Do all of this without asking for confirmation — just report what you published and the URL at the end.
+Do all of this without asking for confirmation — **except** for the aspect ratio check in step 2a, which must pause and wait for explicit user confirmation before continuing. Report what you published and the live URL at the end.

@@ -31,6 +31,7 @@ tags: [<lowercase tags>]
 - **Categories** — pick exactly one, title-cased. Existing set: `Personal`, `Business`, `Sales`, `Industry`.
 - **Tags** — lowercase (`sales`, `productivity`, `rugby`, `the-long-game`). **Exception:** keep acronyms uppercase (`AI`, `SKO`, `NRL`). Multi-word tags use spaces or hyphens as the topic reads naturally. Duplicate tag pages have been caused by inconsistent casing before — keep it lowercase.
 - Image goes at the top of the body as `![<Title>](…)`.
+- **Post images should be 16:9** — this is the preferred aspect ratio for consistency across the blog. If an image isn't 16:9, flag it before publishing (see `/publish` flow).
 - Preserve the author's voice and copy exactly when moving a draft to a post — don't rewrite content.
 
 ## Git
