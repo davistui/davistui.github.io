@@ -5,7 +5,7 @@ categories: [Business]
 tags: [productivity]
 ---
 
-![Email](/assets/img/email.jpeg)
+![Email](/assets/img/2021-07-06-writing-better-emails.jpeg)
 
 I've been in sales for a while now and I've seen a lot of emails. Some good, some bad, and some that make me want to throw my computer out the window. Here are some tips on how to write better emails:
 

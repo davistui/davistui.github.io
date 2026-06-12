@@ -5,7 +5,7 @@ categories: [Business]
 tags: [low-code]
 ---
 
-![Low Code](/assets/img/lowcode.avif)
+![Low Code](/assets/img/2023-03-09-low-code-2023-and-beyond.avif)
 
 Low-code development platforms have been around for a while, but they're becoming increasingly popular as businesses look for ways to speed up their development processes and reduce costs. In this post, I'll explore what low-code development is, why it's becoming more popular, and what the future holds for this technology.
 

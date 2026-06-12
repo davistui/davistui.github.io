@@ -5,7 +5,7 @@ categories: [Sales]
 tags: [sales kickoff, SKO, enterprise]
 ---
 
-![Sales Kickoff](/assets/img/IMG_7071.JPG)
+![Sales Kickoff](/assets/img/2026-01-25-sales-kickoff-guide-for-new-aes.JPG)
 
 I've been to Sales Kickoffs locally, in Europe, the UK and the US. Some set me up for a great year. Others I forgot by February. Here's what actually matters.
 

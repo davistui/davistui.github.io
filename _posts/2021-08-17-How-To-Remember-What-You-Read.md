@@ -5,7 +5,7 @@ categories: [Business]
 tags: [productivity]
 ---
 
-![Remember What You Read](/assets/img/remember.jpeg)
+![Remember What You Read](/assets/img/2021-08-17-how-to-remember-what-you-read.jpeg)
 
 It's a familiar problem. You read a page or two and then go back to where you started and draw a complete blank at what you've just read. So like a toxic relationship, you start again only to reach the bottom of the page and completely forget what you've just read.
 

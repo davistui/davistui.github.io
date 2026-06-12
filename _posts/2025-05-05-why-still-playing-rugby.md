@@ -5,13 +5,13 @@ categories: [Personal]
 tags: [rugby]
 ---
 
-![Team Sheet](/assets/img/teamsheet.jpg)
+![Team Sheet](/assets/img/2025-05-05-why-still-playing-rugby.jpg)
 
 Last weekend, I pulled on the Footscray jersey and ran out for another first-grade cap. Mid-30s. Lower back slightly sore. Surrounded by boys ten plus years younger. And yeah — I still love doing this!
 
 It hurts more now. The body doesn't bounce back like it used to. Recovery takes a bit longer (similar to the hangovers). Preseason feels like even longer these days. But somehow, every run-on feels like a privilege. I'm not nervous anymore — I'm present. Calm. I know my role. I remember the chaos of my debut in 2013 for Power House, nerves in my chest, butterflies in my stomach. Now, I think slow and try to be the voice of reason amidst all the chaos.
 
-![Rugby Catch](/assets/img/rugbycatch.jpg)
+![Rugby Catch](/assets/img/2025-05-05-why-still-playing-rugby-2.jpg)
 
 Right before kick-off, I can feel it — the pregnant pause from the crowd, the younger boys unable to keep still - filled with nerves. I always take a moment to take these moments in. Right after the final whistle? Relief. I got through unscathed. Given the risk of injury at my big age, that's a win in itself.
 

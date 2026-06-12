@@ -5,7 +5,7 @@ categories: [Business]
 tags: [productivity]
 ---
 
-![Albert Einstein](/assets/img/albert_einstein.png)
+![Albert Einstein](/assets/img/2023-02-09-the-einstein-principle.png)
 
 The Einstein Principle is a productivity approach that emphasizes working smarter, not harder. It's based on the idea that Albert Einstein, one of the most brilliant minds in history, was able to achieve great things not by working longer hours, but by working more efficiently and taking time to rest and recharge.
 

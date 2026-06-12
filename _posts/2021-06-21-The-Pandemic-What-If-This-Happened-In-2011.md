@@ -5,7 +5,7 @@ categories: [Personal]
 tags: [throwback]
 ---
 
-![COVID-19](/assets/img/covid-19.PNG)
+![COVID-19](/assets/img/2021-06-21-the-pandemic-what-if-this-happened-in-2011.PNG)
 
 We're days away from the end of the financial year and the vibrant buzz that's normally felt in the business community definately feels muted. As I finish off some emails on a wintery day, it's a thought that always crosses my mind - what would it have been like if the pandemic struck in 2011?
 

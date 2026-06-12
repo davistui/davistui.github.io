@@ -5,7 +5,7 @@ categories: [Business]
 tags: [productivity]
 ---
 
-![Books](/assets/img/books.avif)
+![Books](/assets/img/2021-07-16-how-to-read-more-in-2021.avif)
 
 Will Smith's acceptance speech at the 2009 Nickelodeon Kids' Choice Awards lives in my head rent free. He's just won favourite movie actor for Hancock. As he clutches his orange blimp trophy, he gives the keys to life: **reading and running**. His take on reading:
 

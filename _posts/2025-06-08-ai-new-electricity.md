@@ -5,7 +5,7 @@ categories: [Personal]
 tags: [AI]
 ---
 
-![Mount Ruapehu](/assets/img/ruapehu.JPG)
+![Mount Ruapehu](/assets/img/2025-06-08-ai-new-electricity.JPG)
 
 Everyone’s talking about AI — but few are saying what it really is.
 

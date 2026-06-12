@@ -5,17 +5,17 @@ categories: [Personal]
 tags: [rugby]
 ---
 
-![Championship](/assets/img/rugby4.jpg)
+![Championship](/assets/img/2018-03-27-my-time-as-a-contracted-rugby-player.jpg)
 
 So I'm returning to Melbourne after spending two seasons with the Bahrain Rugby Club playing in the West Asia Premiership.
 
 As I write this, we're days away from a home final which hasn't happened in over a decade. We beat the Abu Dhabi Harlequins in the semi-finals who we faced in last years final. That game was a special game because we came back from a 21-6 deficit to clinch the game 21-26. Another first for the club as we hadn't beaten them in nine years.
 
-![Me and the boys](/assets/img/rugby2.jpg)
+![Me and the boys](/assets/img/2018-03-27-my-time-as-a-contracted-rugby-player-2.jpg)
 
 It was quite an incredible experience with the opportunity to travel, experiencing middle eastern culture and learning a little bit about what I'm made of. I always found it a surreal experience of swapping the suit for trainers and moving conversations from 'continual improvement of enterprise grade software' to 'how we were planning on tucking up the opposition in the scrums and line outs'. So I thought I'd write this to give a few quirky insights to what it was like playing rugby given I had done a 180 and changed my career entirely.
 
-![Dads](/assets/img/rugby3.jpg)
+![Dads](/assets/img/2018-03-27-my-time-as-a-contracted-rugby-player-3.jpg)
 
 ## You can never master your washing pile
 
@@ -23,7 +23,7 @@ The amount of clothing you go through is insane! You're training everyday and ce
 
 Not to mention the odd day where you misplace something then you're up late night washing and drying it so you can wear it the next day with no stress or getting a team fine!
 
-![Me and Gibbo](/assets/img/rugby1.jpg)
+![Me and Gibbo](/assets/img/2018-03-27-my-time-as-a-contracted-rugby-player-4.jpg)
 
 ## You become mentally tougher
 

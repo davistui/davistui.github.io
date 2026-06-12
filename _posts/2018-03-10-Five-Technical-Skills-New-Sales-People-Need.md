@@ -5,7 +5,7 @@ categories: [Business]
 tags: [sales]
 ---
 
-![Sales Skills](/assets/img/sales.JPG)
+![Sales Skills](/assets/img/2018-03-10-five-technical-skills-new-sales-people-need.JPG)
 
 We're seeing a diverse spectrum of Millennials really embedded into the work place. Given they're born from the late 80's to the late 90's they're everywhere. Middle and senior management, entry level jobs, the c-level. Some of us are making bank, some chasing far fetched dreams and others just plain lost. 
 

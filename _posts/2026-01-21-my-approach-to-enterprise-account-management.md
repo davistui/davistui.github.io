@@ -5,7 +5,7 @@ categories: [Sales]
 tags: [enterprise, account management]
 ---
 
-![Account Management](/assets/img/account_management.png)
+![Account Management](/assets/img/2026-01-21-my-approach-to-enterprise-account-management.png)
 
 I wanted to share my thoughts on account management. Two years ago I inherited 147 accounts, the first thing I noticed was that nobody could articulate the why. CSM's would tell me the utilisation metrics, support had dashboards for ticket responses but there wasn't a connection between what customers were doing with the product and what that meant to their organisations. This is my approach to tiering, execution, and playing the long game.
 

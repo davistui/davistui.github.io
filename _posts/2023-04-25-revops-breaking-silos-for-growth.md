@@ -5,7 +5,7 @@ categories: [Business]
 tags: [sales]
 ---
 
-![RevOps](/assets/img/revops.png)
+![RevOps](/assets/img/2023-04-25-revops-breaking-silos-for-growth.png)
 
 I've been in the tech startup space for around 10 years and recently I've been thinking about how I want to grow professionally. Right now, I have enough experience to get sales roles and I also have a wide skill set to allow me to pivot my career if I need to. There's one lesson which is a foundation of my sales career: companies run activities that create value, customers buy what they believe is valuable.
 

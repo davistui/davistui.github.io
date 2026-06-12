@@ -5,7 +5,7 @@ categories: [Personal]
 tags: [entrepreneurship]
 ---
 
-![Growth Graph](/assets/img/graphs.jpeg)
+![Growth Graph](/assets/img/2021-06-30-why-i-couldnt-follow-my-dreams.jpeg)
 
 When I finally upgraded my YouTube subscription to allow ad free, offline playback on my lockdown walks, I'd stumble across content creators who have successfully managed to build their audiences and work full time working everyday on something they loved. From photographers, musicians through to productivity gurus and consumer tech reviewers, they all managed to build incredible income from simply turning on a camera, editing a video and then millions of people would tune in and listen to every word.
 
